@@ -9,7 +9,24 @@
         Cyber is able to compete and do well throughout the year due to our amazing sponsors and partners. They help us with funding, recruitment, and by sharing the awesome work that they do!
       </p>
 
-      <img src="/cresp.png" alt="UCR CRESP Logo">
+      <sui-segment vertical class="ui stripe">
+        <div is="sui-container">
+          <sui-card-group :items-per-row="2">
+            <sui-card v-for="sponsor in sponsors" :key="sponsor.name">
+              <sui-image v-bind:src="sponsor.image" class="user-image" />
+              <sui-card-content>
+                <sui-card-header>{{sponsor.name}}</sui-card-header>
+                <sui-card-description>
+                  {{sponsor.description}}
+                </sui-card-description>
+              </sui-card-content>
+              <sui-card-content extra>
+                <sui-icon name="linkify" /> <a :href="sponsor.link">Website</a>
+              </sui-card-content>
+            </sui-card>
+          </sui-card-group>
+        </div>
+      </sui-segment>
 
       <p>
         Want to join these awesome folks? Send us an email at <a href="mailto:contact@ucrcyber.org">contact@ucrcyber.org</a>.
@@ -26,7 +43,15 @@ export default {
   data() {
     return {
       title: 'Partners',
-      description: 'Cyber@UCR Sponsors & Partners'
+      description: 'Cyber@UCR Sponsors & Partners',
+      sponsors: [
+        {
+          name: 'UC Riverside CRESP',
+          image: require('~/assets/sponsors/cresp.png'),
+          description: `The UC Riverside Center for Research and Education in Cyber Security and Privacy.`,
+          link: 'https://cresp.cs.ucr.edu/'
+        }
+      ]
     }
   },
    head () {

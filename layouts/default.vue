@@ -39,6 +39,7 @@
     <div class="ui inverted vertical footer segment">
       <div class="ui container">
         <div class="ui stackable inverted divided equal height stackable grid">
+
           <div class="three wide column">
             <h4 class="ui inverted header"> Navigation</h4>
             <div class="ui inverted link list">
@@ -49,6 +50,7 @@
               <nuxt-link to="/calendar" class="item">Calendar</nuxt-link>
             </div>
           </div>
+
           <div class="three wide column">
             <h4 class="ui inverted header">
               Services
@@ -58,6 +60,7 @@
               <a class="item disabled" href="#"> Register</a>
             </div>
           </div>
+
           <div class="seven wide column">
             <h4 class="ui inverted header">
               Questions?

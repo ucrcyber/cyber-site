@@ -8,9 +8,9 @@
       <p>
         Cyber@UCR was founded in 2016 when a group of hackers when @squelch came to UCR and saw a gap in the security education, but there was no shortage of hackers. He brought a group together to compete in Western Regionals Collegiate Cyber Defense Competition. This team placed 3rd in Defense and earned Cyber@UCR a place in the college of engineering! Cyber has grown in size and skill every year.
       </p>
-      <h4 class="ui horizontal header divider">
-        <a href="#"> Case Studies</a>
-      </h4>
+
+      <div class="ui divider"></div>
+
       <h3 class="ui header">
         What do we do now?
       </h3>
@@ -42,7 +42,7 @@
           </p>
         </div>
         <div class="six wide right floated column">
-          <img class="ui large bordered rounded image" src="/ccdcTeam2017.jpg" />
+          <img class="ui large bordered rounded image" src="~/assets/competitions/ccdcTeam2017.jpg" />
         </div>
       </div>
       <div class="row">
