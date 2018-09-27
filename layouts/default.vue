@@ -11,7 +11,10 @@
           <a href="#" active-class="active" class="header item">Cyber@UCR</a>
           <nuxt-link to="/" active-class="active" class="item" exact>Home</nuxt-link>
           <nuxt-link to="/about" active-class="active" class="item">About</nuxt-link>
-          <nuxt-link to="/members" active-class="active" class="item">Members</nuxt-link>
+          <nuxt-link to="/officers" active-class="active" class="item">Officers</nuxt-link>
+          <nuxt-link to="/partners" active-class="active" class="item">Partners</nuxt-link>
+          <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
+
 
           <div class="right item">
             <a class="ui inverted button disabled">Log in</a>
@@ -41,7 +44,9 @@
             <div class="ui inverted link list">
               <nuxt-link to="/" class="item" exact> Home</nuxt-link>
               <nuxt-link to="/about" class="item"> About Us</nuxt-link>
-              <nuxt-link to="/members" class="item"> Members</nuxt-link>
+              <nuxt-link to="/officers" class="item">Officers</nuxt-link>
+              <nuxt-link to="/partners" class="item">Partners</nuxt-link>
+              <nuxt-link to="/calendar" class="item">Calendar</nuxt-link>
             </div>
           </div>
           <div class="three wide column">
@@ -58,7 +63,7 @@
               Questions?
             </h4>
             <p>
-              Email --@--.com if you have any questions.
+              Email <a href="mailto:contact@ucrcyber.org">contact@ucrcyber.org</a> if you have any questions.
             </p>
           </div>
         </div>
@@ -74,7 +79,7 @@
 }
 
 .masthead.segment {
-  min-height: 400px;
+  min-height: 300px;
   padding: 1em 0em;
 }
 .masthead .logo.item img {
@@ -84,7 +89,7 @@
   margin-left: 0.5em;
 }
 .masthead h1.ui.header {
-  margin-top: 2em;
+  margin-top: 1em;
   margin-bottom: 0em;
   font-size: 4em;
   font-weight: normal;
@@ -95,7 +100,7 @@
 }
 
 .ui.vertical.stripe {
-  padding: 8em 0em;
+  padding: 6em 0em;
 }
 .ui.vertical.stripe h3 {
   font-size: 2em;

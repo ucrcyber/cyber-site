@@ -1,0 +1,53 @@
+<template>
+<div>
+  <sui-segment vertical class="stripe">
+    <div class="ui middle aligned stackable grid container">
+      <div class="row">
+        <div class="eight wide left column">
+          <h3 class="ui header">
+            General Meetings:
+          </h3>
+          <p>
+            Cyber@UCR has biweekly general meetings from 2-3pm in WCH 205/206. These meetings will cover anouncements, tech-talks, and guest speakers.
+          </p>
+        </div>
+        <div class="eight wide right floated column">
+          <iframe src="https://calendar.google.com/calendar/embed?src=cyberucr%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+        </div>
+      </div>
+    </div>
+  </sui-segment>
+
+  <sui-segment vertical class="stripe">
+    <div class="ui text container">
+      
+    </div>
+  </sui-segment>
+
+</div>
+  
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'Calendar',
+      description: 'Cyber@UCR\'s Upcoming Events'
+    }
+  },
+   head () {
+    return {
+      title: this.title
+    }
+  },
+  mounted () {
+    this.$store.commit('SET_PAGE_TITLE', this.title)
+    this.$store.commit('SET_PAGE_DESCRIPTION', this.description)
+  }
+};
+</script>
+
+<style>
+  
+</style>

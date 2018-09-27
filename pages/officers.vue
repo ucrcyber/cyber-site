@@ -13,7 +13,7 @@
               </sui-card-description>
             </sui-card-content>
             <sui-card-content extra>
-              <sui-icon name="envelope" /> {{member.email}}
+              <sui-icon name="envelope" /> <a :href="'mailto:' +member.email">{{member.email}}</a>
               <!-- <span slot="right">Joined in 2013</span> -->
             </sui-card-content>
           </sui-card>
@@ -33,49 +33,47 @@ export default {
       members: [
         {
           name: 'William Shiao',
-          image: require('~/assets/members/placeholder-350x350.png'),
+          image: require('~/assets/officers/placeholder-350x350.png'),
           position: 'President',
-          email: '--@--.com',
+          email: 'wshia00X@ucr.edu',
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
         },
         {
           name: 'Daniel Stinson-Diess',
-          image: require('~/assets/members/placeholder-350x350.png'),
+          image: require('~/assets/officers/daniel_stinson.jpg'),
           position: 'Vice President',
-          email: '--@--.com',
-          description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
+          email: 'dstin002@ucr.edu',
+          description: `Daniel serves as both the Vice-President and the captain of our CCDC for Cyber. He has experience as a security developer, and doing work with incident response, forensics, and system administration. On our CCDC team last year he focused on our network security posture.`
         },
         {
           name: 'Mario Salazar',
-          image: require('~/assets/members/placeholder-350x350.png'),
+          image: require('~/assets/officers/placeholder-350x350.png'),
           position: 'Outreach Director',
-          email: '--@--.com',
+          email: 'dstin002@ucr.edu',
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
         },
         {
-          name: 'Edward Huh',
-          image: require('~/assets/members/placeholder-350x350.png'),
+          name: 'Ji Houn Huh',
+          image: require('~/assets/officers/placeholder-350x350.png'),
           position: 'Ethics Director',
-          email: '--@--.com',
-          description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
+          email: 'juhu009@ucr.edu',
+          description: `Ji Houn is the ethics director and a member of the CCDC team for cyber. His role is to enusre that the president is kept in check as well as enforcing the code of ethics. If there is an issue, contact the president or ethics director.`
         },
         {
           name: 'Brittney Mun',
-          image: require('~/assets/members/placeholder-350x350.png'),
+          image: require('~/assets/officers/placeholder-350x350.png'),
           position: 'Secretary',
-          email: '--@--.com',
+          email: 'dstin002@ucr.edu',
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
         },
         {
           name: 'Renee Pedvin',
-          image: require('~/assets/members/placeholder-350x350.png'),
+          image: require('~/assets/officers/placeholder-350x350.png'),
           position: 'Treasurer',
-          email: '--@--.com',
+          email: 'dstin002@ucr.edu',
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
         }
