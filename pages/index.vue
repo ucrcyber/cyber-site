@@ -14,12 +14,12 @@
       <div class="ui divider"></div>
 
       <h3 class="ui header">
-        What do we talk about?
+        What do we do?
       </h3>
       <p>
         Whether you're new to the field of cyber security or an experienced veteran, we strive to provide content and a community for developing your hacking skills and mentality. We'll help you cover the basics of operating systems, networking, penetration testing, reverse engineering, and more! 
       </p>
-      <a class="ui large button">I want to join!</a>
+      <a class="ui large button" href="http://eepurl.com/dIyKwH" target="_blank">I want to join!</a>
     </div>
   </sui-segment>
 </div>

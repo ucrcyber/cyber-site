@@ -8,18 +8,13 @@
         <div class="ui large secondary inverted pointing menu">
           <a class="toc item"><i class="sidebar icon"></i></a>
 
-          <a href="#" active-class="active" class="header item">Cyber@UCR</a>
+          <a href="/" active-class="active" class="header item"><img src="~/assets/logo.png" alt="Cyber@UCR Logo"></a>
           <nuxt-link to="/" active-class="active" class="item" exact>Home</nuxt-link>
           <nuxt-link to="/about" active-class="active" class="item">About</nuxt-link>
           <nuxt-link to="/officers" active-class="active" class="item">Officers</nuxt-link>
           <nuxt-link to="/partners" active-class="active" class="item">Partners</nuxt-link>
           <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
 
-
-          <div class="right item">
-            <a class="ui inverted button disabled">Log in</a>
-            <a class="ui inverted button disabled">Sign Up</a>
-          </div>
         </div>
       </div>
       <div class="ui text container">
@@ -52,12 +47,10 @@
           </div>
 
           <div class="three wide column">
-            <h4 class="ui inverted header">
-              Services
-            </h4>
+            <h4 class="ui inverted header"> Join the Community!</h4>
             <div class="ui inverted link list">
-              <a class="item disabled" href="#"> Login</a>
-              <a class="item disabled" href="#"> Register</a>
+              <a class="item" href="https://www.facebook.com/groups/ucrcyber/"><i class="icon facebook"></i> Facebook</a>
+              <a class="item" href="https://ucrcyber.slack.com"><i class="icon slack"></i> Slack</a>
             </div>
           </div>
 
@@ -131,7 +124,7 @@
 }
 
 .footer.segment {
-  padding: 5em 0em;
+  padding: 3em 0em;
 }
 
 .secondary.pointing.menu .toc.item {
