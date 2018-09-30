@@ -2,7 +2,7 @@
 <div>  
     <sui-segment vertical class="ui stripe">
       <div is="sui-container">
-        <sui-card-group :items-per-row="3">
+        <sui-card-group :items-per-row="isMobile ? 1 : 3">
           <sui-card v-for="member in members" :key="member.name">
             <sui-image v-bind:src="member.image" class="user-image" />
             <sui-card-content>
@@ -25,8 +25,12 @@
 </template>
 
 <script>
+import { isMobile } from "../lib/Utilities"
+
 export default {
   data() {
+    console.log(isMobile)
+
     return {
       title: "Members",
       description: "The officers of Cyber@UCR",
@@ -77,17 +81,21 @@ export default {
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
         }
-      ]
+      ],
+      isMobile: false
     };
   },
-  head() {
+
+head() {
     return {
       title: this.title
     };
   },
+
   mounted() {
     this.$store.commit("SET_PAGE_TITLE", this.title);
     this.$store.commit("SET_PAGE_DESCRIPTION", this.description);
+    this.isMobile = isMobile(window)
   }
 };
 </script>
