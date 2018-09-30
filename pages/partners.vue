@@ -2,12 +2,8 @@
 <div>
   <sui-segment vertical class="stripe">
     <div class="ui text container">
-      <h3 class="ui header">
-        Partners
-      </h3>
-      <p>
-        Cyber@UCR is able to compete and do well throughout the year due to our amazing sponsors and partners. They help us with funding, recruitment, and by sharing the awesome work that they do!
-      </p>
+      <p>Cyber@UCR is able to compete and do well throughout the year due to our amazing sponsors and partners.
+        They help us with funding, recruitment, and by sharing the awesome work that they do!</p>
 
       <sui-segment vertical class="ui stripe">
         <div is="sui-container">

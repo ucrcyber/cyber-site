@@ -2,31 +2,28 @@
 <div>
   <sui-segment vertical class="stripe">
     <div class="ui text container">
-      <h3 class="ui header">
-        Origin Story...
-      </h3>
-      <p>
-        Cyber@UCR was founded in 2016 when a group of hackers when @squelch came to UCR and saw a gap in the security education, but there was no shortage of hackers. He brought a group together to compete in Western Regionals Collegiate Cyber Defense Competition. This team placed 3rd in Defense and earned Cyber@UCR a place in the college of engineering! Cyber has grown in size and skill every year.
-      </p>
+      <h3 class="ui header">Origin Story</h3>
+      <p>Cyber@UCR was founded in 2016 when a group of hackers when @squelch came to UCR and saw a gap in the security education, but there was no shortage of hackers.
+        He brought a group together to compete in Western Regionals Collegiate Cyber Defense Competition.
+        This team placed 3rd in Defense and earned Cyber@UCR a place in the college of engineering! Cyber has grown in size and skill every year.</p>
 
       <div class="ui divider"></div>
 
-      <h3 class="ui header">
-        What do we do now?
-      </h3>
-      <p>
-        We seek to educate people about everything security related, some of our focuses are listed below. We better these through educational workshops, tech-talks, and most importantly <i>COMPETITIONS</i>!
-        <ul>
-          <li>Secure System Administration</li>
-          <li>Web Application Security</li>
-          <li>Secure Software Development</li>
-          <li>Offensive Security</li>
-          <li>Incident Response</li>
-          <li>Security Awareness training</li>
-          <li>Locksport</li>
-          <li>Ethical Disclosure Practices</li>
-        </ul> 
-      </p>
+      <h3 class="ui header">What do we do?</h3>
+      <p>We seek to educate people about everything security related, some of our focuses are listed below.
+        We better these through educational workshops, tech-talks, and most importantly, <i>COMPETITIONS</i>!</p>
+
+      <h2 class="ui header">Topics</h2>
+      <ul>
+        <li><p>Secure System Administration</p></li>
+        <li><p>Web Application Security</p></li>
+        <li><p>Secure Software Development</p></li>
+        <li><p>Offensive Security</p></li>
+        <li><p>Incident Response</p></li>
+        <li><p>Security Awareness Training</p></li>
+        <li><p>Locksport</p></li>
+        <li><p>Ethical Disclosure Practices</p></li>
+      </ul> 
     </div>
   </sui-segment>
 
