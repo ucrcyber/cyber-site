@@ -6,12 +6,12 @@
         Partners
       </h3>
       <p>
-        Cyber is able to compete and do well throughout the year due to our amazing sponsors and partners. They help us with funding, recruitment, and by sharing the awesome work that they do!
+        Cyber@UCR is able to compete and do well throughout the year due to our amazing sponsors and partners. They help us with funding, recruitment, and by sharing the awesome work that they do!
       </p>
 
       <sui-segment vertical class="ui stripe">
         <div is="sui-container">
-          <sui-card-group :items-per-row="2">
+          <sui-card-group :items-per-row="isMobile ? 1 : 2">
             <sui-card v-for="sponsor in sponsors" :key="sponsor.name">
               <sui-image v-bind:src="sponsor.image" class="user-image" />
               <sui-card-content>
@@ -39,6 +39,8 @@
 </template>
 
 <script>
+import { isMobile } from '~/lib/Utilities'
+
 export default {
   data() {
     return {
@@ -51,7 +53,8 @@ export default {
           description: `The UC Riverside Center for Research and Education in Cyber Security and Privacy.`,
           link: 'https://cresp.cs.ucr.edu/'
         }
-      ]
+      ],
+      isMobile: false
     }
   },
    head () {
@@ -62,6 +65,7 @@ export default {
   mounted () {
     this.$store.commit('SET_PAGE_TITLE', this.title)
     this.$store.commit('SET_PAGE_DESCRIPTION', this.description)
+    this.isMobile = isMobile(window)
   }
 };
 </script>

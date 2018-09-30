@@ -25,15 +25,13 @@
 </template>
 
 <script>
-import { isMobile } from "../lib/Utilities"
+import { isMobile } from '../lib/Utilities'
 
 export default {
   data() {
-    console.log(isMobile)
-
     return {
-      title: "Members",
-      description: "The officers of Cyber@UCR",
+      title: 'Members',
+      description: 'The officers of Cyber@UCR',
       members: [
         {
           name: 'William Shiao',
