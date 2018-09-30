@@ -3,9 +3,9 @@
   <!--Page Contents-->
   <div class="pusher">
     <!-- Header -->
-    <div class="ui inverted vertical masthead center aligned segment">
-      <div class="ui container">
-        <div class="ui large secondary inverted pointing menu">
+    <sui-segment inverted vertical class="masthead center aligned">
+      <div is="sui-container">
+        <sui-menu secondary inverted class="large">
           <a class="toc item"><i class="sidebar icon"></i></a>
 
           <a href="/" active-class="active" class="header item"><img src="~/assets/logo.png" alt="Cyber@UCR Logo"></a>
@@ -15,17 +15,18 @@
           <nuxt-link to="/partners" active-class="active" class="item">Partners</nuxt-link>
           <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
 
-        </div>
+        </sui-menu>
+        <div>Test</div>
       </div>
-      <div class="ui text container">
-        <h1 class="ui inverted header">
+      <div is="sui-container" text>
+        <h1 is="sui-header" class="inverted">
           {{$store.state.pageTitle}}
         </h1>
         <h2>
           {{$store.state.pageDescription}}
         </h2>
       </div>
-    </div>
+    </sui-segment>
 
     <!-- Content -->
     <nuxt/>
