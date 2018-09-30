@@ -2,13 +2,34 @@
 <div>
   <!--Page Contents-->
   <div class="pusher">
-    <!-- Header -->
-    <sui-segment inverted vertical class="masthead center aligned">
-      <div is="sui-container">
-        <sui-menu secondary inverted class="large">
-          <a class="toc item"><i class="sidebar icon"></i></a>
+    <!-- Mobile Sidebar -->
+    <sui-sidebar animation="push" v-bind:visible="menuOpen" class="menu inverted vertical secondary" id="mobile-sidebar">
+      <sui-menu-item>
+        <img src="~/assets/logo.png" class="ui logo icon image" id="cyber-logo">
+        <nuxt-link to="/">Cyber@UCR</nuxt-link>
+      </sui-menu-item>
 
-          <a href="/" active-class="active" class="header item"><img src="~/assets/logo.png" alt="Cyber@UCR Logo"></a>
+      <nuxt-link to="/" active-class="active" class="item" exact>Home</nuxt-link>
+      <nuxt-link to="/about" active-class="active" class="item">About</nuxt-link>
+      <nuxt-link to="/officers" active-class="active" class="item">Officers</nuxt-link>
+      <nuxt-link to="/partners" active-class="active" class="item">Partners</nuxt-link>
+      <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
+      
+      <sui-menu-item v-on:click="closeMenu()">
+        Close <i class="close icon"></i>
+      </sui-menu-item>
+    </sui-sidebar>
+
+    <!-- Header -->
+    <sui-segment inverted vertical class="masthead center aligned" >
+      <div is="sui-container">
+
+        <sui-menu secondary inverted pointing class="large">
+          <a class="toc item" v-on:click="openMenu()"><i class="sidebar icon"></i></a>
+
+          <a href="/" active-class="active" class="header item">
+            <img src="~/assets/logo.png" alt="Cyber@UCR Logo">
+          </a>
           <nuxt-link to="/" active-class="active" class="item" exact>Home</nuxt-link>
           <nuxt-link to="/about" active-class="active" class="item">About</nuxt-link>
           <nuxt-link to="/officers" active-class="active" class="item">Officers</nuxt-link>
@@ -16,9 +37,9 @@
           <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
 
         </sui-menu>
-        <div>Test</div>
       </div>
-      <div is="sui-container" text>
+
+      <div is="sui-container" text v-on:click="closeMenu()">
         <h1 is="sui-header" class="inverted">
           {{$store.state.pageTitle}}
         </h1>
@@ -29,7 +50,9 @@
     </sui-segment>
 
     <!-- Content -->
-    <nuxt/>
+    <div v-on:click="closeMenu()">
+      <nuxt/>
+    </div>
 
     <!-- Footer -->
     <div class="ui inverted vertical footer segment">
@@ -69,6 +92,35 @@
   </div>
 </div>
 </template>
+
+<script>
+// from jQuery import $
+
+export default {
+  data () {
+    return {
+      menuOpen: false
+    }
+  },
+
+  methods: {
+    closeMenu() {
+      this.menuOpen = false
+    },
+
+    openMenu() {
+      this.menuOpen = true
+    }
+  },
+
+  watch: {
+    $route (to, from) {
+      this.menuOpen = false
+    }
+  } 
+}
+</script>
+
 
 <style>
 .hidden.menu {
@@ -133,23 +185,38 @@
 }
 
 @media only screen and (max-width: 700px) {
+  #mobile-sidebar {
+    background: rgb(27, 28, 29);
+  }
+
+  img#cyber-logo {
+    max-width: 50px;
+    margin-right: 1em;
+    display: inline-block;
+  }
+
   .ui.fixed.menu {
     display: none !important;
   }
+
   .secondary.pointing.menu .item,
   .secondary.pointing.menu .menu {
     display: none;
   }
+
   .secondary.pointing.menu .toc.item {
     display: block;
   }
+
   .masthead.segment {
-    min-height: 350px;
+    min-height: 250px;
   }
+
   .masthead h1.ui.header {
     font-size: 2em;
     margin-top: 1.5em;
   }
+
   .masthead h2 {
     margin-top: 0.5em;
     font-size: 1.5em;
