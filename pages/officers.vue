@@ -48,15 +48,14 @@ export default {
         },
         {
           name: 'Mario Salazar',
-          image: require('~/assets/officers/placeholder-350x350.png'),
+          image: require('~/assets/officers/mario.jpg'),
           position: 'Outreach Director',
-          email: 'dstin002@ucr.edu',
-          description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
+          email: 'msala027@ucr.edu',
+          description: `Mario is the Outreach Director for Cyber. He has experience working with several security topics over two internships. He can also handle the business side with his Associate's Degree in Business Administration.`
         },
         {
           name: 'Ji Houn Huh',
-          image: require('~/assets/officers/placeholder-350x350.png'),
+          image: require('~/assets/officers/edward.jpg'),
           position: 'Ethics Director',
           email: 'juhu009@ucr.edu',
           description: `Ji Houn is the ethics director and a member of the CCDC team for cyber. His role is to enusre that the president is kept in check as well as enforcing the code of ethics. If there is an issue, contact the president or ethics director.`
