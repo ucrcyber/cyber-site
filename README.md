@@ -1,4 +1,6 @@
-# cyber-site
+cyber-site
+=================
+[![Build Status](https://travis-ci.org/ucrcyber/cyber-site.svg?branch=master)](https://travis-ci.org/ucrcyber/cyber-site)
 
 > Cyber@UCR Website
 
