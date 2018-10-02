@@ -8,9 +8,7 @@
             <sui-card-content>
               <sui-card-header>{{member.name}}</sui-card-header>
               <sui-card-meta>{{member.position}}</sui-card-meta>
-              <sui-card-description>
-                {{member.description}}
-              </sui-card-description>
+              <sui-card-description>{{member.description}}</sui-card-description>
             </sui-card-content>
             <sui-card-content extra>
               <sui-icon name="envelope" /> <a :href="'mailto:' +member.email">{{member.email}}</a>
@@ -38,29 +36,28 @@ export default {
           image: require('~/assets/officers/william.jpg'),
           position: 'President',
           email: 'wshia002@ucr.edu',
-          description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
+          description: `William is the President of Cyber@UCR. He is interested in cyber security, but also has interests in machine learning and web development. He focuses on Linux and web application security on the CCDC team.`
         },
         {
           name: 'Daniel Stinson-Diess',
           image: require('~/assets/officers/daniel_stinson.jpg'),
           position: 'Vice President',
           email: 'dstin002@ucr.edu',
-          description: `Daniel serves as both the Vice-President and the captain of our CCDC for Cyber. He has experience as a security developer, and doing work with incident response, forensics, and system administration. On our CCDC team last year he focused on our network security posture.`
+          description: `Daniel serves as both the Vice-President and the captain of our CCDC team for Cyber@UCR. He has experience as a security developer, and doing work with incident response, forensics, and system administration. On our CCDC team last year he focused on our network security posture.`
         },
         {
           name: 'Mario Salazar',
           image: require('~/assets/officers/mario.jpg'),
           position: 'Outreach Director',
           email: 'msala027@ucr.edu',
-          description: `Mario is the Outreach Director for Cyber. He has experience working with several security topics over two internships. He can also handle the business side with his Associate's Degree in Business Administration.`
+          description: `Mario is the Outreach Director for Cyber@UCR. He has experience working with several security topics over two internships. He can also handle the business side with his Associate's Degree in Business Administration.`
         },
         {
           name: 'Ji Houn Huh',
           image: require('~/assets/officers/edward.jpg'),
           position: 'Ethics Director',
           email: 'juhu009@ucr.edu',
-          description: `Ji Houn is the ethics director and a member of the CCDC team for cyber. His role is to enusre that the president is kept in check as well as enforcing the code of ethics. If there is an issue, contact the president or ethics director.`
+          description: `Ji Houn is the ethics director and a member of the CCDC team for Cyber@UCR. His role is to enusre that the president is kept in check, as well as enforcing the code of ethics. If there is an issue, contact the president or ethics director.`
         },
         {
           name: 'Brittney Mun',
