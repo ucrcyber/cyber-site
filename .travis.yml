@@ -8,6 +8,7 @@ script:
   - npm run spa-generate
 
 deploy:
+  skip_cleanup: true
   provider: surge
   project: ./dist/
   domain: ucrcyber.org  
