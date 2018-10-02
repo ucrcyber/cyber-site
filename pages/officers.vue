@@ -35,7 +35,7 @@ export default {
       members: [
         {
           name: 'William Shiao',
-          image: require('~/assets/officers/placeholder-350x350.png'),
+          image: require('~/assets/officers/william.jpg'),
           position: 'President',
           email: 'wshia002@ucr.edu',
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
