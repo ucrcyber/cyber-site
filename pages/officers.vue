@@ -68,10 +68,10 @@ export default {
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
         },
         {
-          name: 'Renee Pedvin',
+          name: 'TBD',
           image: require('~/assets/officers/placeholder-350x350.png'),
           position: 'Treasurer',
-          email: 'dstin002@ucr.edu',
+          email: 'xxxxx000@ucr.edu',
           description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
         }
