@@ -61,19 +61,10 @@ export default {
         },
         {
           name: 'Brittney Mun',
-          image: require('~/assets/officers/placeholder-350x350.png'),
+          image: require('~/assets/officers/brittney.jpg'),
           position: 'Secretary',
-          email: 'dstin002@ucr.edu',
-          description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
-        },
-        {
-          name: 'TBD',
-          image: require('~/assets/officers/placeholder-350x350.png'),
-          position: 'Treasurer',
-          email: 'xxxxx000@ucr.edu',
-          description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
+          email: 'bmun001@ucr.edu',
+          description: `Brittney Mun is the Secretary for Cyber@UCR. She participated in CyberPatriot and CCDC. She specializes in Windows Server and currently works as a student systems administrator.`
         }
       ],
       isMobile: false
