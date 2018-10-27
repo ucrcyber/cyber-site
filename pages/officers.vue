@@ -57,7 +57,7 @@ export default {
           image: require('~/assets/officers/edward.jpg'),
           position: 'Ethics Director',
           email: 'juhu009@ucr.edu',
-          description: `Ji Houn is the ethics director and a member of the CCDC team for Cyber@UCR. His role is to enusre that the president is kept in check, as well as enforcing the code of ethics. If there is an issue, contact the president or ethics director.`
+          description: `Ji Houn is the Ethics Director and a member of the CCDC team for Cyber@UCR. His role is to ensure that the president is kept in check, as well as enforcing the code of ethics. If there is an issue, contact the president or Ethics Director.`
         },
         {
           name: 'Brittney Mun',
