@@ -35,7 +35,7 @@ export default {
           name: 'Ji Houn Huh',
           image: require('~/assets/officers/edward.jpg'),
           position: 'President',
-          email: 'juhu009@ucr.edu',
+          email: 'jhuh009@ucr.edu',
           description: `Ji Houn is the President of Cyber@UCR. He was the Ethics Director last year and served as the network admin in the 2019 WRCCDC competition and the new Captain for the upcoming WRCCDC competition.`
         },
         {
@@ -63,7 +63,7 @@ export default {
           name: 'Alexander Zamora',
           image: require('~/assets/officers/alexander.jpg'),
           position: 'Secretary',
-          email: 'bmun001@ucr.edu',
+          email: 'azamo021@ucr.edu',
           description: `Alexander Zamora is the Secretary for Cyber@UCR. He participated in CyberPatriot and CCDC. He specializes in Windows Server but also has interests in Linux machines and firewalls.`
         },
         {
