@@ -32,39 +32,51 @@ export default {
       description: 'The officers of Cyber@UCR',
       officers: [
         {
-          name: 'William Shiao',
-          image: require('~/assets/officers/william.jpg'),
-          position: 'President',
-          email: 'wshia002@ucr.edu',
-          description: `William is the President of Cyber@UCR. He is interested in cyber security, but also has interests in machine learning and web development. He focuses on Linux and web application security on the CCDC team.`
-        },
-        {
-          name: 'Daniel Stinson-Diess',
-          image: require('~/assets/officers/daniel_stinson.jpg'),
-          position: 'Vice President',
-          email: 'dstin002@ucr.edu',
-          description: `Daniel serves as both the Vice-President and the captain of our CCDC team for Cyber@UCR. He has experience as a security developer, and doing work with incident response, forensics, and system administration. On our CCDC team last year he focused on our network security posture.`
-        },
-        {
-          name: 'Mario Salazar',
-          image: require('~/assets/officers/mario.jpg'),
-          position: 'Outreach Director',
-          email: 'msala027@ucr.edu',
-          description: `Mario is the Outreach Director for Cyber@UCR. He has experience working with several security topics over two internships. He can also handle the business side with his Associate's Degree in Business Administration.`
-        },
-        {
           name: 'Ji Houn Huh',
           image: require('~/assets/officers/edward.jpg'),
-          position: 'Ethics Director',
-          email: 'juhu009@ucr.edu',
-          description: `Ji Houn is the Ethics Director and a officer of the CCDC team for Cyber@UCR. His role is to ensure that the president is kept in check, as well as enforcing the code of ethics. If there is an issue, contact the president or Ethics Director.`
+          position: 'President',
+          email: 'jhuh009@ucr.edu',
+          description: `Ji Houn is the President of Cyber@UCR. He was the Ethics Director last year and served as the network admin in the 2019 WRCCDC competition and the new Captain for the upcoming WRCCDC competition.`
         },
         {
-          name: 'Brittney Mun',
-          image: require('~/assets/officers/brittney.jpg'),
+          name: 'Anthony Hallak',
+          image: require('~/assets/officers/anthony.jpg'),
+          position: 'Vice President',
+          email: 'ahall012@ucr.edu',
+          description: `Anthony serves as both the Vice-President and the Vice-Captain of our CCDC team for Cyber@UCR. He served as both the Treasurer and Linux Admin for the WRCCDC competition. Majoring in CSBA, he hopes to apply computer science to the business world as well as integrate security into the workplace.`
+        },
+        {
+          name: 'Elise Lin',
+          image: require('~/assets/officers/elise.jpg'),
+          position: 'Outreach Director',
+          email: 'elin019@ucr.edu',
+          description: `Elise is the Outreach Director of Cyber@UCR. Her role entails promoting Cyber's resources and boosting member attendance. If you'd like to know anything about Cyber, she'd be more than happy to let you know! She is currently testing waters between incident response and networks for CCDC and will join JPL this summer as a Space Networking intern.`
+        },
+        {
+          name: 'Luis Garcia',
+          image: require('~/assets/officers/luis.jpg'),
+          position: 'Ethics Director',
+<<<<<<< HEAD
+          email: 'juhu009@ucr.edu',
+          description: `Ji Houn is the Ethics Director and a officer of the CCDC team for Cyber@UCR. His role is to ensure that the president is kept in check, as well as enforcing the code of ethics. If there is an issue, contact the president or Ethics Director.`
+=======
+          email: 'lgarc038@ucr.edu',
+          description: `Luis Garcia is the Ethics Director and a member of the CCDC team for Cyber@UCR. His role is to ensure that the president is kept in line and does not abuse their power, as well as enforcing the code of ethics. If there is an issue, contact the president or Ethics Director.`
+>>>>>>> master
+        },
+        {
+          name: 'Alexander Zamora',
+          image: require('~/assets/officers/alexander.jpg'),
           position: 'Secretary',
-          email: 'bmun001@ucr.edu',
-          description: `Brittney Mun is the Secretary for Cyber@UCR. She participated in CyberPatriot and CCDC. She specializes in Windows Server and currently works as a student systems administrator.`
+          email: 'azamo021@ucr.edu',
+          description: `Alexander Zamora is the Secretary for Cyber@UCR. He participated in CyberPatriot and CCDC. He specializes in Windows Server but also has interests in Linux machines and firewalls.`
+        },
+        {
+          name: 'Howard Chen',
+          image: require('~/assets/officers/howard.jpg'),
+          position: 'Treasurer',
+          email: 'cchen277@ucr.edu',
+          description: `Howard is the Treasurer of Cyber@UCR. His role is to provide accurate financial and budgeting information to help the club pursue it's goals and endeavors. He was an alternate for the CCDC team, and aims to be an integral part of the team for next year's competition.`
         }
         // {
         //   name: 'TBD',
