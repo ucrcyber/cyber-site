@@ -56,13 +56,8 @@ export default {
           name: 'Luis Garcia',
           image: require('~/assets/officers/luis.jpg'),
           position: 'Ethics Director',
-<<<<<<< HEAD
-          email: 'juhu009@ucr.edu',
-          description: `Ji Houn is the Ethics Director and a officer of the CCDC team for Cyber@UCR. His role is to ensure that the president is kept in check, as well as enforcing the code of ethics. If there is an issue, contact the president or Ethics Director.`
-=======
           email: 'lgarc038@ucr.edu',
           description: `Luis Garcia is the Ethics Director and a member of the CCDC team for Cyber@UCR. His role is to ensure that the president is kept in line and does not abuse their power, as well as enforcing the code of ethics. If there is an issue, contact the president or Ethics Director.`
->>>>>>> master
         },
         {
           name: 'Alexander Zamora',
