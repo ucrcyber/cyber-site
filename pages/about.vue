@@ -35,7 +35,7 @@
             Last Years Team
           </h3>
           <p>
-            During our CCDC competition last year Cyber placed 3rd overall and 1st in the defense category! Coming back for 1st place next year...
+            During our CCDC competition in 2018, Cyber placed 3rd overall and 1st in the defense category! Coming back for 1st place next year...
           </p>
         </div>
         <div class="six wide right floated column">
@@ -43,8 +43,8 @@
         </div>
       </div>
       <div class="row">
-        <div class="center aligned column">
-          <a class="ui huge button">Interested in Competing?</a>
+        <div class="center aligned column">      
+          <a class="ui huge button" href="https://ucrcyber.slack.com">Interested in Competing?</a>
         </div>
       </div>
     </div>

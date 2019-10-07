@@ -14,6 +14,7 @@
       <nuxt-link to="/officers" active-class="active" class="item">Officers</nuxt-link>
       <nuxt-link to="/partners" active-class="active" class="item">Partners</nuxt-link>
       <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
+      <nuxt-link to="/resources" active-class="active" class="item">Resources</nuxt-link>
       
       <sui-menu-item v-on:click="closeMenu()">
         Close <i class="close icon"></i>
@@ -35,6 +36,7 @@
           <nuxt-link to="/officers" active-class="active" class="item">Officers</nuxt-link>
           <nuxt-link to="/partners" active-class="active" class="item">Partners</nuxt-link>
           <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
+          <nuxt-link to="/resources" active-class="active" class="item">Resources</nuxt-link>
 
         </sui-menu>
       </div>
@@ -67,6 +69,7 @@
               <nuxt-link to="/officers" class="item">Officers</nuxt-link>
               <nuxt-link to="/partners" class="item">Partners</nuxt-link>
               <nuxt-link to="/calendar" class="item">Calendar</nuxt-link>
+              <nuxt-link to="/resources" class="item">Resources</nuxt-link>
             </div>
           </div>
 
