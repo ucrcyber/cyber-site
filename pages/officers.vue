@@ -3,15 +3,15 @@
     <sui-segment vertical class="ui stripe">
       <div is="sui-container">
         <sui-card-group :items-per-row="isMobile ? 1 : 3">
-          <sui-card v-for="member in members" :key="member.name">
-            <sui-image v-bind:src="member.image" class="user-image" />
+          <sui-card v-for="officer in officers" :key="officer.name">
+            <sui-image v-bind:src="officer.image" class="user-image" />
             <sui-card-content>
-              <sui-card-header>{{member.name}}</sui-card-header>
-              <sui-card-meta>{{member.position}}</sui-card-meta>
-              <sui-card-description>{{member.description}}</sui-card-description>
+              <sui-card-header>{{officer.name}}</sui-card-header>
+              <sui-card-meta>{{officer.position}}</sui-card-meta>
+              <sui-card-description>{{officer.description}}</sui-card-description>
             </sui-card-content>
             <sui-card-content extra>
-              <sui-icon name="envelope" /> <a :href="'mailto:' +member.email">{{member.email}}</a>
+              <sui-icon name="envelope" /> <a :href="'mailto:' +officer.email">{{officer.email}}</a>
               <!-- <span slot="right">Joined in 2013</span> -->
             </sui-card-content>
           </sui-card>
@@ -28,9 +28,9 @@ import { isMobile } from '../lib/Utilities'
 export default {
   data() {
     return {
-      title: 'Members',
+      title: 'Officers',
       description: 'The officers of Cyber@UCR',
-      members: [
+      officers: [
         {
           name: 'Ji Houn Huh',
           image: require('~/assets/officers/edward.jpg'),
