@@ -86,7 +86,7 @@
               Questions?
             </h4>
             <p>
-              Email <a href="mailto:contact@ucrcyber.org">contact@ucrcyber.org</a> if you have any questions.
+              Email <a href="mailto:cyberucr@gmail.com">cyberucr@gmail.com</a> if you have any questions.
             </p>
           </div>
         </div>
