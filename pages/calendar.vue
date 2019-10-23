@@ -5,10 +5,10 @@
       <div class="row">
         <div class="eight wide left column">
           <h3 class="ui header">General Meetings</h3>
-          <p>Cyber@UCR has biweekly general meetings from 11am-12pm in Bourns A265.
+          <p>Cyber@UCR has biweekly general meetings from 4-5pm in Bourns A171.
             These meetings will cover anouncements, tech-talks, and guest speakers.
             As well as demos demonstrating different vulnerabilities and defences.
-            We also host weekly workshops for our CCDC and CTF competitions.</p>
+            We also host weekly workshops for our CCDC, CPTC, & CTF competitions.</p>
         </div>
 
         <div class="eight wide right floated column">

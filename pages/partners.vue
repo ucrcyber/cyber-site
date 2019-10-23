@@ -25,7 +25,7 @@
       </sui-segment>
 
       <p>
-        Want to join these awesome folks? Send us an email at <a href="mailto:contact@ucrcyber.org">contact@ucrcyber.org</a>.
+        Want to join these awesome folks? Send us an email at <a href="mailto:cyberucr@gmail.com">cyberucr@gmail.com</a>.
       </p>
     </div>
   </sui-segment>
