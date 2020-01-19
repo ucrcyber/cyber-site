@@ -102,7 +102,7 @@ head() {
 
 <style>
 .user-image {
-  width: 100%;
+  width: auto;
   height: auto;
 }
 </style>
