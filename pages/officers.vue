@@ -32,46 +32,46 @@ export default {
       description: 'The officers of Cyber@UCR',
       officers: [
         {
-          name: 'Ji Houn Huh',
-          image: require('~/assets/officers/edward.jpg'),
-          position: 'President',
-          email: 'jhuh009@ucr.edu',
-          description: `Ji Houn is the President of Cyber@UCR. He was the Ethics Director last year and served as the network admin in the 2019 WRCCDC competition and the new Captain for the upcoming WRCCDC competition.`
-        },
-        {
           name: 'Anthony Hallak',
           image: require('~/assets/officers/anthony.jpg'),
-          position: 'Vice President',
+          position: 'President',
           email: 'ahall012@ucr.edu',
-          description: `Anthony serves as both the Vice-President and the Vice-Captain of our CCDC team for Cyber@UCR. He served as both the Treasurer and Linux Admin for the WRCCDC competition. Majoring in CSBA, he hopes to apply computer science to the business world as well as integrate security into the workplace.`
+          description: `Anthony serves as both the President and the Linux Admin of our CCDC team for Cyber@UCR. He served as both the Treasurer and Linux Admin for the WRCCDC competition as well as the 2019-2020 Vice President and Co Captain of Cyber@UCR's CPTC team in 2019. Majoring in CSBA, he hopes to apply computer science to the business world as well as integrate security into the workplace to best the efforts of malicious actors in an increasing world of cyber chaos.`
         },
         {
           name: 'Elise Lin',
           image: require('~/assets/officers/elise.jpg'),
-          position: 'Outreach Director',
+          position: 'Vice President',
           email: 'elin019@ucr.edu',
-          description: `Elise is the Outreach Director of Cyber@UCR. Her role entails promoting Cyber's resources and boosting member attendance. If you'd like to know anything about Cyber, she'd be more than happy to let you know! She is currently testing waters between incident response and networks for CCDC and will join JPL this summer as a Space Networking intern.`
+          description: `Elise is the Vice President and Networks Admin of our CCDC team for Cyber@UCR. As VP, she manages the website and fills in where she's needed! As this year's VP, she hopes to increase club reputation and security awareness by promoting our competitions and newsletters. She interned at NASA JPL Summer 2019 as a Space Networks Intern and will be interning at Aon Summer 2020 as a Cyber Summer Associate.`
         },
         {
-          name: 'Luis Garcia',
-          image: require('~/assets/officers/luis.jpg'),
+          name: 'Alexis Arroyo',
+          image: require('~/assets/officers/alexis.jpg'),
+          position: 'Outreach Director',
+          email: 'aarro029@ucr.edu',
+          description: `Alexis is the Marketing/Outreach Director of Cyber@UCR. His role encompasses on increasing Cyber’s presence as a student organization, both on campus and on social media, and increasing member attendance. As a Business Information Systems major, Alexis’ greatest endeavor is to be the catalyst in building the bridge so that more students in other majors join Cyber. As an aspiring cybersecurity professional, Alexis holds ethics as his highest regard. If you would like to learn more about Cyber, feel free to email him for more information.`
+        },
+        {
+          name: 'Zubair Qazi',
+          image: require('~/assets/officers/zubair.jpg'),
           position: 'Ethics Director',
-          email: 'lgarc038@ucr.edu',
-          description: `Luis Garcia is the Ethics Director and a member of the CCDC team for Cyber@UCR. His role is to ensure that the president is kept in line and does not abuse their power, as well as enforcing the code of ethics. If there is an issue, contact the president or Ethics Director.`
+          email: 'zqazi004@ucr.edu',
+          description: `I ethics the director.`
         },
         {
-          name: 'Alexander Zamora',
-          image: require('~/assets/officers/alexander.jpg'),
+          name: 'Jino Sirivatanarat',
+          image: require('~/assets/officers/jino.jpg'),
           position: 'Secretary',
-          email: 'azamo021@ucr.edu',
-          description: `Alexander Zamora is the Secretary for Cyber@UCR. He participated in CyberPatriot and CCDC. He specializes in Windows Server but also has interests in Linux machines and firewalls.`
+          email: 'jsiri007@ucr.edu',
+          description: `I secretary the log man.`
         },
         {
-          name: 'Howard Chen',
-          image: require('~/assets/officers/howard.jpg'),
+          name: 'KJ Fields',
+          image: require('~/assets/officers/kj.jpg'),
           position: 'Treasurer',
-          email: 'cchen277@ucr.edu',
-          description: `Howard is the Treasurer of Cyber@UCR. His role is to provide accurate financial and budgeting information to help the club pursue it's goals and endeavors. He was an alternate for the CCDC team, and aims to be an integral part of the team for next year's competition.`
+          email: 'kfiel009@ucr.edu',
+          description: `I order the pizza.`
         }
         // {
         //   name: 'TBD',
