@@ -64,14 +64,14 @@ export default {
           image: require('~/assets/officers/jino.jpg'),
           position: 'Secretary',
           email: 'jsiri007@ucr.edu',
-          description: `I secretary the log man.`
+          description: `Jino serves as both the Secretary and the Windows Admin of our CCDC team for Cyber@UCR. As a Secretary, he will be helping with maintaining the club's official standing with the club as well as organizing the club's official documents. Majoring in Neuroscience, he hopes to join the science field with the technology field. He hopes to be able help others that aren't in the computer science field with a passion for cybersecurity or technology.`
         },
         {
           name: 'KJ Fields',
           image: require('~/assets/officers/kj.jpg'),
           position: 'Treasurer',
           email: 'kfiel009@ucr.edu',
-          description: `I order the pizza.`
+          description: `KJ is the treasurer for Cyber@UCR. His duties involve activating a club account, creating and proposing the club budget to ASUCR, creating and proposing a dean's funding budget, searching for and ordering club materials, and maintaining a spreadsheet of all expenses. He hopes to both keep meticulous records of expenses and increase the efficiency of purchases for the club. As a first year computer science major, KJ is still deciding what specialties to focus on, but he is mainly interested in learning about neural networks, bioinformatics, and cybersecurity. Overall, he is eager to gather new information and help others do so as well.`
         }
         // {
         //   name: 'TBD',
