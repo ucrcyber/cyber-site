@@ -94,7 +94,20 @@
             2017 Regionals CCDC Team
           </h3>
           <p>
-            Cyber placed 7th overall. A nice start to our first competition!
+            Cyber placed 5th overall. 
+          </p>
+        </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/ccdcTeam2017.jpg" />
+        </div>
+      </div>
+       <div class="row">
+        <div class="eight wide column">
+          <h3 class="ui header">
+            2016 Regionals CCDC Team
+          </h3>
+          <p>
+            Cyber placed 3rd in defense.
           </p>
         </div>
         <div class="six wide right floated column">
