@@ -3,8 +3,8 @@ import Vuex from 'vuex'
 const createStore = () => {
   return new Vuex.Store({
     state: {
-      pageTitle: 'Cyber@UCR',
-      pageDescription: 'Welcome to Cyber@UCR'
+      pageTitle: 'Cybersecurity at UCR',
+      pageDescription: 'Cyber@UCR'
     },
     mutations: {
       SET_PAGE_TITLE(state, title) {
