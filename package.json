@@ -14,7 +14,8 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^2.10.2",
+    "core-js": "^2.6.5",
+    "nuxt": "^2.12.2",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-vue": "^0.2.11"
   },
