@@ -4,11 +4,11 @@
     <div class="ui middle aligned stackable grid container">
       <div class="row">
         <div class="eight wide left column">
-          <h3 class="ui header">Meetings: Winter 2020</h3>
+          <h3 class="ui header">Meetings: Fall 2020</h3>
           <p> General meetings cover announcements, defensive/offensive demos, tech-talks, and guest speakers. We also host weekly practices for Defensive and Offensive competitions! Anyone is free to join. </p> 
-          <p>General Meetings: Biweekly Thursday 5-6pm via Zoom</p>
-          <p>CCDC Meetings: Biweekly Saturday 2-4pm via Zoom</p>
-          <p>CPTC Meetings: Weekly Wednesday 6-7pm & Saturday 11am-1pm via Zoom</p>	
+          <p>General Meetings: TBA</p>
+          <p>CCDC Meetings: TBA</p>
+          <p>CPTC Meetings: TBA</p>	
         </div>
 
         <div class="eight wide right floated column">

@@ -76,8 +76,10 @@
           <div class="three wide column">
             <h4 class="ui inverted header"> Join the Community!</h4>
             <div class="ui inverted link list">
-              <a class="item" href="https://www.facebook.com/groups/ucrcyber/"><i class="icon facebook"></i> Facebook</a>
               <a class="item" href="https://ucrcyber.slack.com"><i class="icon slack"></i> Slack</a>
+              <a class="item" href="https://linkedin.com/company/cyberucr"><i class="icon linkedin"></i> LinkedIn</a>
+              <a class="item" href="https://www.facebook.com/groups/ucrcyber/"><i class="icon facebook"></i> Facebook</a>
+              <a class="item" href="http://eepurl.com/dIyKwH"><i class="icon mail"></i> Mailing List</a>
             </div>
           </div>
 

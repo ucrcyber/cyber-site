@@ -3,18 +3,27 @@
 
   <sui-segment vertical class="stripe">
     <div class="ui text container">
-      <h3 class="ui header">Who are we?</h3>
-      <p>Cyber@UCR is UCR's premiere organization for advancing knowledge of computer security related topics topics through competition and experimentation.
-        We consist of undergraduate students with the support of the CS Department, graduate students, and our outside partners.
-        Come hack with us at one of our meetings and add to our knowledge pool!</p>
+      <h3 class="ui header">Cyber@UCR</h3>
+      <p>Dedicated to advancing computer security knowledge through competition and experimentation.</p>
       <a class="ui large button" href="/about">Read More</a>
 
       <div class="ui divider"></div>
 
       <h3 class="ui header">What do we do?</h3>
-      <p>Whether you're new to the field of cyber security or an experienced veteran, we strive to provide content and a community for developing your hacking skills and mentality.
-        We'll help you cover the basics of operating systems, networking, penetration testing, reverse engineering, and more!</p>
-      <a class="ui large button" href="http://eepurl.com/dIyKwH" target="_blank">I want to join!</a>
+      <p>We seek to educate people about everything security realted. We better these through educational workshops, practices, and most importantly, competitions.</p>
+      <img class="ui image" src="~/assets/wheel.png" />
+
+      <div class="ui divider"></div>
+
+      <h3 class="ui header">Join the Community</h3>
+      <a class="item" href="https://ucrcyber.slack.com"><i class="icon slack"></i> Slack</a> 
+      <p> Connect and chat with fellow hackers! </p>
+      <a class="item" href="https://linkedin.com/company/cyberucr"><i class="icon linkedin"></i> LinkedIn</a>
+      <p> Join our professional network and view our history of events and accomplishments. </p>
+      <a class="item" href="https://www.facebook.com/groups/ucrcyber/"><i class="icon facebook"></i> Facebook</a>
+      <p> Stay up to date with our ongoing events. </p>
+      <a class="item" href="http://eepurl.com/dIyKwH"><i class="icon mail"></i> Mailing List</a>
+      <p> Sign up for weekly newsletters curated by our Marketing Chair. </p>
     </div>
   </sui-segment>
 </div>
@@ -25,8 +34,8 @@
 export default {
   data() {
     return {
-      title: "Cyber@UCR",
-      description: "Welcome to Cyber@UCR"
+      title: "Cybersecurity at UCR",
+      // description: "Cyber@UCR"
     };
   },
   head() {

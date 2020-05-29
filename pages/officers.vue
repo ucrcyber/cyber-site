@@ -29,7 +29,7 @@ export default {
   data() {
     return {
       title: 'Officers',
-      description: 'The officers of Cyber@UCR',
+      description: 'Cyber@UCR 2020-2021 Board',
       officers: [
         {
           name: 'Anthony Hallak',
