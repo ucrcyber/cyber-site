@@ -110,9 +110,6 @@
             Cyber placed 3rd in defense.
           </p>
         </div>
-        <div class="six wide right floated column">
-          <img class="ui large bordered rounded image" src="~/assets/competitions/ccdcTeam2017.jpg" />
-        </div>
       </div>
     </div>
   </sui-segment>
