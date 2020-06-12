@@ -74,6 +74,9 @@
             Cyber did not qualify but watch for our come back next year!
           </p>
         </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/ccdcTeam2019.jpeg" />
+        </div>
       </div>
       <div class="row">
         <div class="eight wide column">
@@ -109,6 +112,9 @@
           <p>
             Cyber placed 3rd in defense.
           </p>
+        </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/ccdcTeam2016.jpg" />
         </div>
       </div>
     </div>
