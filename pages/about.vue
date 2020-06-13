@@ -110,7 +110,7 @@
             2016 Regionals CCDC Team
           </h3>
           <p>
-            Cyber placed 3rd in defense.
+            Cyber placed 1st in defense! Thank you to UCR's Chief Information Security Officer, Nicholas Turley, and the Computer Science department's Manager of Technical Operations, Victor Hill, for coaching us our starting year. 
           </p>
         </div>
         <div class="six wide right floated column">
