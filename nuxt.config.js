@@ -40,3 +40,8 @@ module.exports = {
     ['semantic-ui-vue/nuxt', { css: false }] // if you have your own semantic-ui styles
   ]
 }
+
+plugins: [
+    '@/plugins/vuetify',
+    '@/plugins/youtube'
+  ]

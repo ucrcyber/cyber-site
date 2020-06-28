@@ -9,6 +9,12 @@
 
       <div class="ui divider"></div>
 
+      <no-ssr  placeholder="Loading..."> 
+             <youtube  @ready="ready" :player-vars="{ autoplay: 1 }" :player-width="100" :player-height="100" :video-id="vOR4__1MKgc" />
+       </no-ssr>
+
+       <div class="ui divider"></div>
+
       <h3 class="ui header">What do we do?</h3>
       <p>We seek to educate people about everything security realted. We better these through educational workshops, practices, and most importantly, competitions.</p>
       <img class="ui image" src="~/assets/wheel.png" />
@@ -35,7 +41,7 @@ export default {
   data() {
     return {
       title: "Cybersecurity at UCR",
-      // description: "Cyber@UCR"
+      description: "Cyber@UCR"
     };
   },
   head() {

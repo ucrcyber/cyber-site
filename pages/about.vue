@@ -29,6 +29,12 @@
         <li><p>Collegiate Cyber Defense Competition</p></li>
         <li><p>Collegiate Penetration Testing Competition</p></li>
       </ul> 
+
+      <h2 class="ui header">Check out our practice groups</h2>
+      <ul>
+        <li><a href="https://www.hackthebox.eu/home/universities/profile/350">HackTheBox</a></li>
+        <li><a href="https://ctftime.org/team/109680">CTFtime</a></li>
+      </ul> 
     </div>
   </sui-segment>
 

@@ -17,7 +17,8 @@
     "core-js": "^2.6.5",
     "nuxt": "^2.12.2",
     "semantic-ui-css": "^2.4.1",
-    "semantic-ui-vue": "^0.2.11"
+    "semantic-ui-vue": "^0.2.11",
+    "vue-youtube-embed": "^2.2.2"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
