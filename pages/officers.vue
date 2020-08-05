@@ -46,13 +46,6 @@ export default {
           description: `Elise is the Vice President and Networks Admin of our CCDC team for Cyber@UCR. As VP, she manages the website and fills in where she's needed! As this year's VP, she hopes to increase club reputation and security awareness by promoting our competitions and newsletters. She interned at NASA JPL Summer 2019 as a Space Networks Intern and will be interning at Aon Summer 2020 as a Cyber Summer Associate.`
         },
         {
-          name: 'Alexis Arroyo',
-          image: require('~/assets/officers/alexis.jpg'),
-          position: 'Outreach Director',
-          email: 'aarro029@ucr.edu',
-          description: `Alexis is the Marketing/Outreach Director of Cyber@UCR. His role encompasses on increasing Cyber’s presence as a student organization, both on campus and on social media, and increasing member attendance. As a Business Information Systems major, Alexis’ greatest endeavor is to be the catalyst in building the bridge so that more students in other majors join Cyber. As an aspiring cybersecurity professional, Alexis holds ethics as his highest regard. If you would like to learn more about Cyber, feel free to email him for more information.`
-        },
-        {
           name: 'Zubair Qazi',
           image: require('~/assets/officers/zubair.jpg'),
           position: 'Ethics Director',

@@ -53,6 +53,9 @@
           <p>
             The come back! Cyber placed 3rd in the defense category. We're seeking to improve our methods by expanding our scripts, getting hands-on with archived machines, and looking for new recruits.
           </p>
+          <p>
+            Captain: Edward Huh, Linux: Anthony Hallak, Windows: Jiera Sirivatanarat, Web: Luis Garcia, Networks: Elise Lin, Injects: Steven Tran, Logs: Renee Pedvin, Floater: Nicholas Pleatsikas 
+          </p>
         </div>
         <div class="six wide right floated column">
           <img class="ui large bordered rounded image" src="~/assets/competitions/ccdcTeam2020.jpeg" />
@@ -65,6 +68,9 @@
           </h3>
           <p>
             Cyber's first offensive security competition @Stanford! We did not place and are hoping to expand our team and skills for 2020. 
+          </p>
+          <p>
+            Captain: Luis Garcia, Co-captain: Anthony Hallak, Members: Edward Huh, Sean Richardson, Elise Lin
           </p>
         </div>
         <div class="six wide right floated column">
@@ -79,6 +85,9 @@
           <p>
             Cyber did not qualify but watch for our come back next year!
           </p>
+          <p>
+            Captain: Daniel Stinson, Linux: Anthony Hallak, Windows: Brittney Mun, Web: William Shiao, Networks: Edward Huh, Injects: Sophie Schrager, Logs: Raudel Blazquez Munoz, Floater: Luis Garcia 
+          </p>
         </div>
         <div class="six wide right floated column">
           <img class="ui large bordered rounded image" src="~/assets/competitions/ccdcTeam2019.jpeg" />
@@ -91,6 +100,9 @@
           </h3>
           <p>
             Cyber placed 3rd overall and 1st in the defense category!
+          </p>
+          <p>
+            Captain: Bradley Evans, Linux: Calvin Ta, Windows: Brittney Mun, Web: William Shiao, Networks: Daniel Stinson, Injects: Edward Huh, Logs: Renee Pedvin, Floater:   
           </p>
         </div>
         <div class="six wide right floated column">
@@ -105,6 +117,9 @@
           <p>
             Cyber placed 5th overall. 
           </p>
+          <p>
+            Captain: Bradley Evans, Linux: Calvin Ta, Windows: Brittney Mun, Web: William Shiao, Networks: , Injects: , Logs: , Floater: Jerry Jiang
+          </p>
         </div>
         <div class="six wide right floated column">
           <img class="ui large bordered rounded image" src="~/assets/competitions/ccdcTeam2017.jpg" />
@@ -117,6 +132,9 @@
           </h3>
           <p>
             Cyber placed 1st in defense! Thank you to UCR's Chief Information Security Officer, Nicholas Turley, and the Computer Science department's Manager of Technical Operations, Victor Hill, for coaching us our starting year. 
+          </p>
+          <p>
+            Captain: Bradley Evans, Linux: Calvin Ta, Windows: ,Web: ,Networks: ,Logs: , Floater:
           </p>
         </div>
         <div class="six wide right floated column">
