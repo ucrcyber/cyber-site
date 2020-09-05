@@ -65,6 +65,13 @@ export default {
           position: 'Treasurer',
           email: 'kfiel009@ucr.edu',
           description: `KJ is the treasurer for Cyber@UCR. His duties involve activating a club account, creating and proposing the club budget to ASUCR, creating and proposing a dean's funding budget, searching for and ordering club materials, and maintaining a spreadsheet of all expenses. He hopes to both keep meticulous records of expenses and increase the efficiency of purchases for the club. As a first year computer science major, KJ is still deciding what specialties to focus on, but he is mainly interested in learning about neural networks, bioinformatics, and cybersecurity. Overall, he is eager to gather new information and help others do so as well.`
+        },
+        {
+          name: 'Kanin Liang',
+          image: require('~/assets/officers/kanin.jpg'),
+          position: 'Outreach Director',
+          email: 'klian038@ucr.edu',
+          description: `Kanin is the Outreach Director for Cyber@UCR. As outreach director, her role is to conduct outreach for the club, manage social media platforms for the club, and ensure that there is proper communication amongst members. Majoring in Computer Engineering, she is primarily focused on Software Engineering. However, she hopes to integrate more cybersecurity into software development than what is already seen, better securing the technology in our world.`
         }
         // {
         //   name: 'TBD',

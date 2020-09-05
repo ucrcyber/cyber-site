@@ -102,7 +102,7 @@
             Cyber placed 3rd overall and 1st in the defense category!
           </p>
           <p>
-            Captain: Bradley Evans, Linux: Calvin Ta, Windows: Brittney Mun, Web: William Shiao, Networks: Daniel Stinson, Injects: Edward Huh, Logs: Renee Pedvin, Floater: N/A   
+            Captain: Bradley Evans, Linux: Calvin Ta, Windows: Brittney Mun, Web: William Shiao, Networks: Daniel Stinson, Injects: Edward Huh, Logs: Renee Pedvin, Floater: Queston Juarez   
           </p>
         </div>
         <div class="six wide right floated column">
@@ -118,7 +118,7 @@
             Cyber placed 5th overall. 
           </p>
           <p>
-            Captain: Bradley Evans, Linux: Calvin Ta, Windows: Brittney Mun, Web: William Shiao, Networks: N/A, Injects: Kevin Dinh, Logs: N/A, Floater: Jerry Jiang
+            Captain: Bradley Evans, Linux: Calvin Ta, Windows: Brittney Mun, Web: William Shiao, Networks: Nicholas Pelham, Injects: Kevin Dinh, Logs: Andrew Nava, Floater: Jerry Jiang
           </p>
         </div>
         <div class="six wide right floated column">
@@ -134,7 +134,7 @@
             Cyber placed 1st in defense! Thank you to UCR's Chief Information Security Officer, Nicholas Turley, and the Computer Science department's Manager of Technical Operations, Victor Hill, for coaching us our starting year. 
           </p>
           <p>
-            Captain: Bradley Evans, Linux: Calvin Ta, Windows: N/A, Web: Bradd Carey, Networks: N/A ,Logs: N/A, Injects: Montana Esguerra, Floater: Kevin Dinh
+            Captain: Bradley Evans, Linux: Calvin Ta, Windows: Ho-Ren Kang, Web: Bradd Carey, Networks: Alan Quach , Logs: Marco Tobon, Injects: Montana Esguerra, Floater: Kevin Dinh
           </p>
         </div>
         <div class="six wide right floated column">
