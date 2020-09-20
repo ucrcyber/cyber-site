@@ -3,20 +3,14 @@
 
   <sui-segment vertical class="stripe">
     <div class="ui text container">
-      <h3 class="ui header">Cyber@UCR</h3>
-      <p>Dedicated to advancing computer security knowledge through competition and experimentation.</p>
+      <h3 class="ui header">UC Riverside's Cybersecurity Club</h3>
+      <p>Dedicated to advancing computer security knowledge through competition and experimentation. We go by the name, Cyber@UCR!</p>
       <a class="ui large button" href="/about">Read More</a>
-
-      <div class="ui divider"></div>
-
-      <no-ssr  placeholder="Loading..."> 
-             <youtube  @ready="ready" :player-vars="{ autoplay: 1 }" :player-width="100" :player-height="100" :video-id="vOR4__1MKgc" />
-       </no-ssr>
 
        <div class="ui divider"></div>
 
       <h3 class="ui header">What do we do?</h3>
-      <p>We seek to educate people about everything security realted. We better these through educational workshops, practices, and most importantly, competitions.</p>
+      <p>We seek to educate people about everything security related. We better these through educational workshops, practices, and most importantly, competitions.</p>
       <img class="ui image" src="~/assets/wheel.png" />
 
       <div class="ui divider"></div>

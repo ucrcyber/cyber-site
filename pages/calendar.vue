@@ -4,12 +4,13 @@
     <div class="ui middle aligned stackable grid container">
       <div class="row">
         <div class="eight wide left column">
-          <h3 class="ui header">Meetings: Summer 2020</h3>
+          <h3 class="ui header">Meetings: Fall 2020</h3>
           <!-- <p> General meetings cover announcements, defensive/offensive demos, tech-talks, and guest speakers. We also host weekly practices for Defensive and Offensive competitions! Anyone is free to join. Email <b> cyberucr@gmail.com </b> for more info. </p>  -->
-          <p> This summer we're hosting biweekly practices for Defensive and Offensive competitions and participating in Capture-the-Flag competitions. Anyone at UCR is free to join! Email <b> cyberucr@gmail.com </b> for more info. </p> 
-          <p>General Meetings: TBA</p>
-          <p>CCDC Meetings: Saturday Biweekly 10am-12pm</p>
-          <p>CPTC Meetings: Saturday Biweekly 1-2pm</p>	
+          <p> This Fall we're hosting biweekly beginner-friendly General Meetings alongside weekly defensive and offensive security workshop meetings. Be sure to integrate this Google calendar to yours! </p> 
+          <p> Got questions? Email <b> ucrcyber@gmail.com </b> </p>
+          <p>General Meetings: Even Weeks Thursday 2-3pm </p>
+          <p>CCDC Meetings: TBA</p>
+          <p>CPTC Meetings: TBA</p>	
           <p>CTF: Check Calendar</p>	
         </div>
 

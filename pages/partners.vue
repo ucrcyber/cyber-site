@@ -48,6 +48,18 @@ export default {
           image: require('~/assets/sponsors/cresp.png'),
           description: `The UC Riverside Center for Research and Education in Cyber Security and Privacy.`,
           link: 'https://cresp.cs.ucr.edu/'
+        },
+        {
+          name: 'UCR BCOE',
+          image: require('~/assets/sponsors/bcoe.png'),
+          description: `The Marlan and Rosemary Bourns College of Engineering`,
+          link: 'https://www.engr.ucr.edu/'
+        },
+        {
+          name: 'ASUCR',
+          image: require('~/assets/sponsors/asucr.jpeg'),
+          description: `Associated Students of UC Riverside.`,
+          link: 'https://asucrexchange.ucr.edu/'
         }
       ],
       isMobile: false
