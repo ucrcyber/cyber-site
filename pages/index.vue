@@ -20,10 +20,12 @@
       <p> Connect and chat with fellow hackers! </p>
       <a class="item" href="https://linkedin.com/company/cyberucr"><i class="icon linkedin"></i> LinkedIn</a>
       <p> Join our professional network and view our history of events and accomplishments. </p>
+      <a class="item" href="https://www.instagram.com/cyber_ucr/"><i class="icon instagram"></i> Instagram</a>
+      <p> Meet the board, check out some member spotlights, and ask us questions. </p>
       <a class="item" href="https://www.facebook.com/groups/ucrcyber/"><i class="icon facebook"></i> Facebook</a>
       <p> Stay up to date with our ongoing events. </p>
       <a class="item" href="http://eepurl.com/dIyKwH"><i class="icon mail"></i> Mailing List</a>
-      <p> Sign up for weekly newsletters curated by our Marketing Chair. </p>
+      <p> Sign up for weekly newsletters curated by our Outreach Director. </p>
     </div>
   </sui-segment>
 </div>
