@@ -9,8 +9,8 @@
           <p> This Fall we're hosting biweekly beginner-friendly General Meetings alongside weekly defensive and offensive security workshop meetings. Be sure to integrate this Google calendar to yours! </p> 
           <p> Got questions? Email <b> ucrcyber@gmail.com </b> </p>
           <p>General Meetings: Even Weeks Thursday 2-3pm </p>
-          <p>CCDC Meetings: TBA</p>
-          <p>CPTC Meetings: TBA</p>	
+          <p>CCDC Meetings: Weekly Saturdays 10am-12pm </p>
+          <p>CPTC Meetings: TBA, biweekly Saturdays </p>	
           <p>CTF: Check Calendar</p>	
         </div>
 
