@@ -52,8 +52,14 @@ export default {
         {
           name: 'UCR BCOE',
           image: require('~/assets/sponsors/bcoe.png'),
-          description: `The Marlan and Rosemary Bourns College of Engineering`,
+          description: `The Marlan and Rosemary Bourns College of Engineering.`,
           link: 'https://www.engr.ucr.edu/'
+        },
+        {
+          name: 'Pinata Farms',
+          image: require('~/assets/sponsors/pf.webp'),
+          description: `LA based social media firm specializing in computer vision. Remix video clips with your own.`,
+          link: 'https://www.pinatafarm.com/'
         },
         {
           name: 'ASUCR',

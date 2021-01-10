@@ -48,6 +48,26 @@
       <div class="row">
         <div class="eight wide column">
           <h3 class="ui header">
+            2020 Regionals & Nationals CPTC Team
+          </h3>
+          <p>
+            Cyber@UCR competes virtually and places into Nationals where we'll be competing with schools such as Stanford, RIT, and CMU! Read more at <a href="https://www1.cs.ucr.edu/news/cyberucr-moving-on-to-national-round-of-cptc">UCR CSE News</a>.
+          </p>
+          <p>
+            Shoutout from National CPTC on <a href="https://twitter.com/nationalcptc/status/1335648234929352707">Twitter</a>. <br>
+            Recognition from UC Riverside on <a href="https://twitter.com/UCRiverside/status/1346860974301564929">Twitter</a>.
+          </p>
+          <p>
+            Captain: Luis Garcia, Co-captain: Jason Lin, Members: Jiera Sirivatanarat, Anthony Hallak, Nathan Melwani, Elise Lin 
+          </p>
+        </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/cptc2020.png" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="eight wide column">
+          <h3 class="ui header">
             2020 Regionals CCDC Team
           </h3>
           <p>
