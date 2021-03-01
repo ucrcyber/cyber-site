@@ -50,7 +50,7 @@ export default {
           image: require('~/assets/officers/zubair.jpg'),
           position: 'Ethics Director',
           email: 'zqazi004@ucr.edu',
-          description: `Zubair is the Ethics Director for Cyber@UCR. His duty is to ensure that all club-related activities are ethical and conducted without malicious intent, as well as to manage any liabilities that may result from unethical activities. He hopes to be able to help Cyber better organize and maintain its vital documents. He is primarily focused on Data Science and Mobile App Development, but he enjoys dabbling in anything and everything.`
+          description: `Zubair is the Ethics Director for Cyber@UCR. His duty is to ensure that all club-related activities are ethical and conducted without malicious intent, as well as to manage any liabilities that may result from unethical activities. He will help Cyber better organize and maintain its vital documents. He is primarily focused on Data Science and Mobile App Development, but he enjoys dabbling in anything and everything.`
         },
         {
           name: 'Jino Sirivatanarat',
