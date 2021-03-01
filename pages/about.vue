@@ -48,6 +48,25 @@
       <div class="row">
         <div class="eight wide column">
           <h3 class="ui header">
+            2021 Regionals CCDC Team
+          </h3>
+          <p>
+            Cyber@UCR places 1st at Western Regional Qualifiers! Read more at <a href="https://insideucr.ucr.edu/stories/2021/02/25/cyber-defense-team-takes-first-place-qualifier-round-moves-regionals">Inside UCR</a> and <a href="https://www1.cs.ucr.edu/news/cyberucr-moving-on-to-national-round-of-cptc">UCR CSE News</a>.
+          </p>
+          <p>
+            Rankings from WRCCDC on <a href="https://twitter.com/wrccdc/status/1358459910946607104">Twitter</a>. <br>
+          </p>
+          <p>
+            Captain: Anthony Hallak, Linux/Co-captain: Elise Lin, Windows: Jiera Sirivatanarat, Networks: Nathan Melwani, Web: Kobe Braga, Injects: Kanin Liang, Logs: Saul Gonzalez, Floater: Kunal Mittal 
+          </p>
+        </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/ccdc2021.png" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="eight wide column">
+          <h3 class="ui header">
             2020 Regionals & Nationals CPTC Team
           </h3>
           <p>
@@ -74,7 +93,7 @@
             The come back! Cyber placed 3rd in the defense category. We're seeking to improve our methods by expanding our scripts, getting hands-on with archived machines, and looking for new recruits.
           </p>
           <p>
-            Captain: Edward Huh, Linux: Anthony Hallak, Windows: Jiera Sirivatanarat, Web: Luis Garcia, Networks: Elise Lin, Injects: Steven Tran, Logs: Renee Pedvin, Floater: Nicholas Pleatsikas 
+            Captain: Edward Huh, Linux/Co-Captain: Anthony Hallak, Windows: Jiera Sirivatanarat, Web: Luis Garcia, Networks: Elise Lin, Injects: Steven Tran, Logs: Renee Pedvin, Floater: Nicholas Pleatsikas 
           </p>
         </div>
         <div class="six wide right floated column">
