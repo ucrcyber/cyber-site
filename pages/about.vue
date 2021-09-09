@@ -42,9 +42,53 @@
     <div class="ui middle aligned stackable grid container">
       <div class="row">
         <div class="center aligned column">      
-          <a class="ui huge button" href="https://ucrcyber.slack.com">Interested in Competing?</a>
+          <a class="ui huge button" href="https://discord.com/invite/vESWWrm">Interested in Competing?</a>
         </div>
       </div>
+
+
+        <div class="row">
+        <div class="eight wide column">
+          <h3 class="ui header">
+            2021 Information Security Talent Search (ISTS)
+          </h3>
+          <p>
+            Cyber@UCR places 2nd at RIT's Information Security Talent Search! 
+          </p> 
+          <p>
+            Rankings for ISTS on <a href="https://twitter.com/ritsecclub/status/1370431327493820419">Twitter</a>. <br>
+          </p>
+          <p>
+            Captain: Nathan Melwani, Team: Jason Lin, Anthony Hallak, Kobe Braga, Ethan Roos 
+          </p>
+        </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/istslogo2021.png" />
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="eight wide column">
+          <h3 class="ui header">
+            2020 Regionals & Nationals CPTC Team
+          </h3>
+          <p>
+            Cyber@UCR competes virtually and places into Nationals where we'll be competing with schools such as Stanford, RIT, and CMU! Read more at <a href="https://www1.cs.ucr.edu/news/cyberucr-moving-on-to-national-round-of-cptc">UCR CSE News</a>.
+          </p>
+          <p>
+            Shoutout from National CPTC on <a href="https://twitter.com/nationalcptc/status/1335648234929352707">Twitter</a>. <br>
+            Recognition from UC Riverside on <a href="https://twitter.com/UCRiverside/status/1346860974301564929">Twitter</a>.
+          </p>
+          <p>
+            Captain: Luis Garcia, Co-captain: Jason Lin, Members: Jiera Sirivatanarat, Anthony Hallak, Nathan Melwani, Elise Lin 
+          </p>
+        </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/cptc2020.png" />
+        </div>
+      </div>
+
       <div class="row">
         <div class="eight wide column">
           <h3 class="ui header">
