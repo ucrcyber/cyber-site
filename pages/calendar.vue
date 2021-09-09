@@ -6,7 +6,7 @@
         <div class="eight wide left column">
           <h3 class="ui header">Meetings: Fall 2021</h3>
           <!-- <p> General meetings cover announcements, defensive/offensive demos, tech-talks, and guest speakers. We also host weekly practices for Defensive and Offensive competitions! Anyone is free to join. Email <b> cyberucr@gmail.com </b> for more info. </p>  -->
-          <p> This Winter we're hosting biweekly intermediate-leveled General Meetings alongside defensive and offensive security workshop meetings. Download our Google calendar to yours! </p> 
+          <p> This Fall we're hosting biweekly General Meetings alongside defensive and offensive security workshop meetings. Download our Google calendar to yours! </p> 
           <p> Got questions? Email <b> ucrcyber@gmail.com </b> </p>
           <p>General Meetings: Odd Weeks Tuesday @4pm. Additional Info-Session Week 2 @5pm </p>
           <p>CCDC Meetings: TBA on Slack and Discord</p>
