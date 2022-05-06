@@ -4,11 +4,11 @@
     <div class="ui middle aligned stackable grid container">
       <div class="row">
         <div class="eight wide left column">
-          <h3 class="ui header">Meetings: Fall 2021</h3>
+          <h3 class="ui header">Meetings: Spring 2022</h3>
           <!-- <p> General meetings cover announcements, defensive/offensive demos, tech-talks, and guest speakers. We also host weekly practices for Defensive and Offensive competitions! Anyone is free to join. Email <b> cyberucr@gmail.com </b> for more info. </p>  -->
-          <p> This Fall we're hosting biweekly General Meetings alongside defensive and offensive security workshop meetings. Download our Google calendar to yours! </p> 
+          <p> This Spring we're hosting biweekly General Meetings alongside defensive and offensive security workshop meetings. Download our Google calendar to yours! </p> 
           <p> Got questions? Email <b> ucrcyber@gmail.com </b> </p>
-          <p>General Meetings: Odd Weeks Tuesday @4pm. Additional Info-Session Week 2 @5pm </p>
+          <p>General Meetings: Odd Weeks Wednesday @2pm. </p>
           <p>CCDC Meetings: TBA on Slack and Discord</p>
           <p>CPTC Meetings: TBA on Slack and Discord</p>	
           <p>CTF: Check Calendar and Slack/Discord</p>	
