@@ -46,11 +46,44 @@
         </div>
       </div>
 
+       <div class="row">
+        <div class="eight wide column">
+          <h3 class="ui header">
+            2022 Information Security Talent Search (ISTS)
+          </h3>
+          <p>
+            Cyber@UCR places 4th at RIT's Information Security Talent Search! 
+          </p> 
+          <p>
+            Captain: Nathan Melwani, Team: Jason Lin, Anthony Hallak, Kobe Braga, Jiera Sirivatanarat  
+          </p>
+        </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/ists2022.jpg" />
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="eight wide column">
+          <h3 class="ui header">
+            2022 Regionals CCDC Team
+          </h3>
+          <p>
+            Cyber@UCR places 4th at Western Regionals! 
+          </p>  
+          <p>
+            Captain: Anthony Hallak, Co-captain/Networks/Linux: Nathan Melwani, Windows: Jiera Sirivatanarat, Web: Kobe Braga, Injects: Kanin Liang, Linux: Adil Mohiuddin, Linux/Networks: Estela Ramirez 
+          </p>
+        </div>
+        <div class="six wide right floated column">
+          <img class="ui large bordered rounded image" src="~/assets/competitions/ccdc2022.jpg" />
+        </div>
+      </div>
 
         <div class="row">
         <div class="eight wide column">
           <h3 class="ui header">
-            2021 Information Security Talent Search (ISTS)
+            2021   Information Security Talent Search (ISTS)
           </h3>
           <p>
             Cyber@UCR places 2nd at RIT's Information Security Talent Search! 
@@ -66,7 +99,6 @@
           <img class="ui large bordered rounded image" src="~/assets/competitions/istslogo2021.png" />
         </div>
       </div>
-
 
       <div class="row">
         <div class="eight wide column">
@@ -108,6 +140,7 @@
           <img class="ui large bordered rounded image" src="~/assets/competitions/ccdc2021.png" />
         </div>
       </div>
+
       <div class="row">
         <div class="eight wide column">
           <h3 class="ui header">
@@ -128,6 +161,7 @@
           <img class="ui large bordered rounded image" src="~/assets/competitions/cptc2020.png" />
         </div>
       </div>
+
       <div class="row">
         <div class="eight wide column">
           <h3 class="ui header">

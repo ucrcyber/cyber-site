@@ -1,3 +1,4 @@
+Notepad:
 <template>
 <div>  
     <sui-segment vertical class="ui stripe">
@@ -32,46 +33,46 @@ export default {
       description: 'Cyber@UCR 2021-2022 Board',
       officers: [
         {
-          name: 'Anthony Hallak',
-          image: require('~/assets/officers/anthony.jpg'),
-          position: 'President',
-          email: 'ahall012@ucr.edu',
-          description: `Anthony serves as both the President and the Linux Admin of our CCDC team for Cyber@UCR. He served as both the Treasurer and Linux Admin for the WRCCDC competition as well as the 2019-2020 Vice President and Co Captain of Cyber@UCR's CPTC team in 2019. Majoring in CSBA, he hopes to apply computer science to the business world as well as integrate security into the workplace to best the efforts of malicious actors in an increasing world of cyber chaos.`
-        },
-        {
           name: 'Nathan Melwani',
           image: require('~/assets/officers/nathan.jpg'),
-          position: 'Vice President',
+          position: 'President',
           email: 'nmelw002@ucr.edu',
-          description: `Nathan is the Vice President of Cyber@UCR. He serves as the captain of the CPTC Team, Networks/Linux Admin of the CCDC team, captain of the CTF team, and captain of teams that are formed to play in smaller competitions. Majoring in CS, he primarily focuses on web application security, network security, and binary exploitation.`
+          description: `Nathan is the President of Cyber@UCR. He serves as the captain of the CPTC Team, Networks/Linux Admin of the CCDC team, captain of the CTF team, and captain of teams that are formed to play in smaller competitions. Majoring in CS, he primarily focuses on web application security and network security.`
         },
         {
-          name: 'Kunal Mittal',
-          image: require('~/assets/officers/kunal.jpeg'),
+          name: 'Adil Mohiuddin',
+          image: require('~/assets/officers/adil.jpg'),
+          position: 'Vice President',
+          email: 'amohi010@ucr.edu',
+          description: `Adil is the Vice-President for Cyber@UCR. His role is to assist the president in their role. He also serves as one of the Linux admins on our CCDC team. As a second-year majoring in computer engineering, he primarily enjoys creating secure open source software.  Correspondingly, he hopes to make something useful someday. He has a slight obsession with the arch distribution.`
+        },
+        {
+          name: 'Justin Lee',
+          image: require('~/assets/officers/justin.jpeg'),
           position: 'Ethics Director',
-          email: 'kmitt006@ucr.edu',
-          description: `Kunal is the Ethics Director for Cyber@UCR. His duty is to ensure that all club-related activities are ethical and conducted without malicious intent, as well as to manage any liabilities that may result from unethical activities. He will help Cyber better organize and maintain its vital documents. He is primarily focused on Big Data and Front-end development, but he enjoys working in cybersecurity and dabbling in other fields.`
+          email: 'jlee1442@ucr.edu',
+          description: `Justin is the Ethics Director for Cyber@UCR. His duty is to ensure that all club-related activities are ethical and conducted without malicious intent, as well as to manage any liabilities that may result from unethical activities. He will help Cyber better organize and maintain its vital documents. He is primarily focused on Unix Systems and Networks.`
         },
         {
-          name: 'Jino Sirivatanarat',
-          image: require('~/assets/officers/jino.jpg'),
-          position: 'Secretary',
-          email: 'jsiri007@ucr.edu',
-          description: `Jino serves as both the Secretary and the Windows Admin of our CCDC team for Cyber@UCR. As a Secretary, he will be helping with maintaining the club's official standing with the club as well as organizing the club's official documents. Majoring in Neuroscience, he hopes to join the science field with the technology field. He hopes to be able help others that aren't in the computer science field with a passion for cybersecurity or technology.`
-        },
-        {
-          name: 'Aramis Masarati',
-          image: require('~/assets/officers/aramis.jpg'),
+          name: 'Minsoo Kim',
+          image: require('~/assets/officers/minsoo.jpg'),
           position: 'Treasurer',
-          email: 'amasa004@ucr.edu',
-          description: `Aramis is the treasurer for Cyber@UCR. His duties involve activating a club account, creating and proposing the club budget to ASUCR, creating and proposing a match fund budget, ordering club materials, maintaining a balance sheet of club transactions, and ordering food for club meetings. He hopes to increase the fundings and efficiently manage the ordering of materials for the club. As a third year computer science with business applications major, Aramis is mainly interested in learning about game development, front-end app development, data management, and cybersecurity. Overall, he is excited to learn new things and is always willing to help out others.`
+          email: 'mkim410@ucr.edu',
+          description: `Minsoo is the treasurer for Cyber@UCR. His duties involve activating a club account, creating and proposing the club budget to ASUCR, creating and proposing a match fund budget, ordering club materials, maintaining a balance sheet of club transactions, and ordering food for club meetings. He hopes to increase fundings and efficiently manage all the finance of the club to ensure none of the activities or events are limited by any matters regarding finance, giving the best experience for all of Cyber’s members. Majoring in Computer Science, he is very interested in software engineering and cybersecurity. He hopes to further expand his knowledge in such fields in the upcoming year.`
         },
         {
-          name: 'Kanin Liang',
-          image: require('~/assets/officers/kanin.jpg'),
+          name: 'Siddharta Dutta',
+          image: require('~/assets/officers/sid.jpg'),
+          position: 'Secretary',
+          email: 'sdutt017@ucr.edu',
+          description: `Siddharta serves as the Secretary for Cyber@UCR. His duty is helping maintain the club's official standing as well as organizing the club's official documents. Majoring in Computer Science, Siddharta is primarily interested in learning about artificial intelligence and machine learning, embedded systems, real-time control systems, cybersecurity, and the intertwining of the different fields.`
+        },
+        {
+          name: '',
+          image: require('~/assets/officers/blank.png'),
           position: 'Outreach Director',
-          email: 'klian038@ucr.edu',
-          description: `Kanin is the Outreach Director for Cyber@UCR. As outreach director, her role is to conduct outreach for the club, manage social media platforms for the club, and ensure that there is proper communication amongst members. Majoring in Computer Engineering, she is primarily focused on Software Engineering. However, she hopes to integrate more cybersecurity into software development than what is already seen, better securing the technology in our world.`
+          email: '',
+          description: `Each member of this board is sharing the responsibilities of this role. If you want to learn more about this role and maybe apply in the future, join the discord and contact one of our current board members.(Note that you can only apply if you are not a graduate student)`
         }
         // {
         //   name: 'TBD',
@@ -106,3 +107,4 @@ head() {
   height: auto;
 }
 </style>
+
