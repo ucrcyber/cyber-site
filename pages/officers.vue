@@ -68,11 +68,11 @@ export default {
           description: `Siddharta serves as the Secretary for Cyber@UCR. His duty is helping maintain the club's official standing as well as organizing the club's official documents. Majoring in Computer Science, Siddharta is primarily interested in learning about artificial intelligence and machine learning, embedded systems, real-time control systems, cybersecurity, and the intertwining of the different fields.`
         },
         {
-          name: '',
-          image: require('~/assets/officers/blank.png'),
+          name: 'Ricardo Galeano',
+          image: require('~/assets/officers/ricardo.jpg'),
           position: 'Outreach Director',
-          email: '',
-          description: `Each member of this board is sharing the responsibilities of this role. If you want to learn more about this role and maybe apply in the future, join the discord and contact one of our current board members.(Note that you can only apply if you are not a graduate student)`
+          email: 'rgale008@ucr.edu',
+          description: `Ricardo is the Outreach Director for Cyber@UCR. As outreach director, his role is to conduct outreach for the club, manage social media platforms for the club, and ensure that there is proper communication amongst members. Majoring in Computer Science, he is looking to further expand his knowledge for cybersecurity to use in his future careers in the software industry.`
         }
         // {
         //   name: 'TBD',
