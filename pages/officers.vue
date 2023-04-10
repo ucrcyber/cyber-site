@@ -1,43 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@Sworddafence
-Sworddafence /
-cyber-site
-Public
-forked from ucrcyber/cyber-site
-
-Fork your own copy of Sworddafence/cyber-site
-
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-cyber-site/pages/officers.vue
-@Kunal-Mittal-UCR
-Kunal-Mittal-UCR Can't use git so I'm straight up uploading files
-Latest commit 2f2b4d5 Jun 3, 2022
-History
-8 contributors
-@willshiao
-@AnthonyH45
-@elise-lin
-@NateM135
-@shellcromancer
-@ZubairQazi
-@KunalMittal-Empire
-@Kunal-Mittal-UCR
-110 lines (103 sloc) 5.55 KB
 Notepad:
 <template>
 <div>  
@@ -172,21 +132,3 @@ head() {
   height: auto;
 }
 </style>
-
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-cyber-site/officers.vue at master · Sworddafence/cyber-site
