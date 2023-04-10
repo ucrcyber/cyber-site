@@ -96,7 +96,7 @@ export default {
         },
         {
           name: 'Danny Topete',
-          image: require('~/assets/officers/Gryphon.jpeg'),
+          image: require('~/assets/officers/Danny.jpg'),
           position: 'Social Media Project Lead',
           email: 'dtope004@ucr.edu',
           description: `The Social Media Project Lead for Cyber@ucr is responsible for overseeing the club's social media presence and managing content creation and distribution across various platforms. They are also responsible for developing and implementing strategies to increase engagement, grow the club's online community, and promote events and initiatives.`
