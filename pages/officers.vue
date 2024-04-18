@@ -70,7 +70,7 @@ export default {
         },
         {
           name: "Mark Ghebrial",
-          image: require("~/assets/officers/mark.jpg"),
+          image: require("~/assets/officers/mark.png"),
           position: "Treasurer",
           email: "mgheb003@ucr.edu",
           description: `Mark is the Treasurer for Cyber@UCR his duties involve activating a club account, creating and proposing the club budget to ASUCR, creating and proposing a match fund budget, ordering club materials, maintaining a balance sheet of club transactions, and ordering food for club meetings. He hopes to increase fundings and efficiently manage all the finance of the club to ensure none of the activities or events are limited by any matters regarding finance, giving the best experience for all of Cyber’s members. He is an alumni of FRC team 3309 and is a Computer Engineer major.`,
@@ -91,7 +91,7 @@ export default {
         },
         {
           name: "Danny Topete",
-          image: require("~/assets/officers/danny.jpg"),
+          image: require("~/assets/officers/danny.png"),
           position: "Social Media Project Lead",
           email: "dtope004@ucr.edu",
           description: `The Social Media Project Lead for Cyber@ucr is responsible for overseeing the club's social media presence and managing content creation and distribution across various platforms. They are also responsible for developing and implementing strategies to increase engagement, grow the club's online community, and promote events and initiatives.`,
