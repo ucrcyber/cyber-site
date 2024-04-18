@@ -48,11 +48,11 @@ export default {
           description: `Joshua serves as the Secretary for Cyber@UCR. His duty is helping maintain the club's official standing as well as organizing the club's official documents. Majoring in Computer Science, Joshua is primarily interested in game development, software engineering, cybersecurity, and the intertwining of the different fields.`,
         },
         {
-          name: "Kareem LastName",
+          name: "Kareem Shehada",
           image: require("~/assets/officers/kareem.jpg"),
-          position: "secretary",
-          email: "netID@ucr.edu",
-          description: `Kareem is the secretary for Cyber@UCR BLANK_SPACE`,
+          position: "Secretary",
+          email: "ksheh002@ucr.edu",
+          description: `Kareem is the Secretary for Cyber@UCR. He is responsible for record keeping and maintaining documents. He also oversees and assists with administrative tasks to ensure smooth operation. Kareem primarily focuses on Unix Systems, Virtualization, and Networks.`,
         },
         {
           name: "Anphu Dung",
@@ -89,13 +89,13 @@ export default {
           email: "gkumf001@ucr.edu",
           description: `The CTF Infra Project Lead for the club Cyber@UCR is responsible for leading the development and maintenance of the infrastructure required for the club's Capture the Flag (CTF) competitions. This includes designing and configuring servers, networks, and security systems to ensure the competitions run smoothly and securely.`,
         },
-        //{
-        //  name: "Danny Topete",
-        //  image: require("~/assets/officers/Danny.jpg"),
-        //  position: "Social Media Project Lead",
-        //  email: "dtope004@ucr.edu",
-        //  description: `The Social Media Project Lead for Cyber@ucr is responsible for overseeing the club's social media presence and managing content creation and distribution across various platforms. They are also responsible for developing and implementing strategies to increase engagement, grow the club's online community, and promote events and initiatives.`,
-        // },
+        {
+          name: "Danny Topete",
+          image: require("~/assets/officers/danny.jpg"),
+          position: "Social Media Project Lead",
+          email: "dtope004@ucr.edu",
+          description: `The Social Media Project Lead for Cyber@ucr is responsible for overseeing the club's social media presence and managing content creation and distribution across various platforms. They are also responsible for developing and implementing strategies to increase engagement, grow the club's online community, and promote events and initiatives.`,
+        },
         // {
         //   name: 'TBD',
         //   image: require('~/assets/officers/placeholder-350x350.png'),
