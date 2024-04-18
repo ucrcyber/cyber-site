@@ -38,14 +38,14 @@ export default {
           image: require("~/assets/officers/justin.jpeg"),
           position: "President",
           email: "jlee1442@ucr.edu",
-          description: `Justin is the Vice President for Cyber@UCR. His duty is to ensure that all club-related activities are ethical and conducted without malicious intent, as well as to manage any liabilities that may result from unethical activities. He will help Cyber better organize and maintain its vital documents. He is primarily focused on Unix Systems and Networks.`,
+          description: `Justin is the President for Cyber@UCR. His duty is to ensure that all club-related activities are ethical and conducted without malicious intent, as well as to manage any liabilities that may result from unethical activities. He will help Cyber better organize and maintain its vital documents. He is primarily focused on Unix Systems and Networks.`,
         },
         {
           name: "Joshua Hsu",
           image: require("~/assets/officers/joshua.png"),
           position: "Vice President",
           email: "jhsu094@ucr.edu",
-          description: `Joshua serves as the Secretary for Cyber@UCR. His duty is helping maintain the club's official standing as well as organizing the club's official documents. Majoring in Computer Science, Joshua is primarily interested in game development, software engineering, cybersecurity, and the intertwining of the different fields.`,
+          description: `Joshua serves as the Vice President for Cyber@UCR. His duty is helping maintain the club's official standing as well as organizing the club's official documents. Majoring in Computer Science, Joshua is primarily interested in game development, software engineering, cybersecurity, and the intertwining of the different fields.`,
         },
         {
           name: "Kareem Shehada",
@@ -66,7 +66,7 @@ export default {
           image: require("~/assets/officers/thomas.jpg"),
           position: "Ethics Director",
           email: "tli186@ucr.edu",
-          description: `The General Project Lead for Cyber@UCR is responsible for overseeing the overall direction and management of the club's projects and initiatives related to cybersecurity at the University of California, Riverside. They collaborate with other club leaders and members to ensure the successful execution of activities, events, and campaigns that promote cybersecurity awareness and education on campus.`,
+          description: `The Ethics Director for Cyber@UCR is responsible for overseeing the overall direction and management of the club's projects and initiatives related to cybersecurity at the University of California, Riverside. They collaborate with other club leaders and members to ensure the successful execution of activities, events, and campaigns that promote cybersecurity awareness and education on campus.`,
         },
         {
           name: "Mark Ghebrial",
