@@ -73,7 +73,7 @@ export default {
           image: require("~/assets/officers/mark.jpg"),
           position: "Treasurer",
           email: "mgheb003@ucr.edu",
-          description: `Mark is the Treasurer for Cyber@UCR BLANK_SPACE`,
+          description: `Mark is the Treasurer for Cyber@UCR his duties involve activating a club account, creating and proposing the club budget to ASUCR, creating and proposing a match fund budget, ordering club materials, maintaining a balance sheet of club transactions, and ordering food for club meetings. He hopes to increase fundings and efficiently manage all the finance of the club to ensure none of the activities or events are limited by any matters regarding finance, giving the best experience for all of Cyber’s members. He is an alumni of FRC team 3309 and is a Computer Engineer major.`,
         },
         {
           name: "Chloe Au",
