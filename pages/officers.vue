@@ -42,7 +42,7 @@ export default {
         },
         {
           name: "Mario Cuaya",
-          image: require("~/assets/officers/blank.png"),
+          image: require("~/assets/officers/mario.jpg"),
           position: "Vice President",
           email: "mcuay001@ucr.edu",
           description: `Mario serves as the Vice President for Cyber@UCR. His duty is helping maintain the club's official standing, organizing the club's official documents, and assisting in administrative tasks. Majoring in Computer Science, he is looking to further expand his knowledge of cybersecurity to use in his future careers in the software industry.`,
