@@ -35,14 +35,14 @@ export default {
       officers: [
         {
           name: "Nolan Vernon",
-          image: require("~/assets/officers/nolan.heif"),
+          image: require("~/assets/officers/nolan.png"),
           position: "President",
           email: "nvern003@ucr.edu",
           description: `Nolan is the President for Cyber@UCR. He is in charge of nominating captains for cybersecurity competitions, acting as the club spokesperson, being the principal organizer for conferences and meetings, tiebreaking votes, and other administrative and ethical tasks. He is primarily focused on Unix Systems, Virtualization, and Networks.`,
         },
         {
           name: "Mario Cuaya",
-          image: require("~/assets/officers/mario.jpg"),
+          image: require("~/assets/officers/blank.png"),
           position: "Vice President",
           email: "mcuay001@ucr.edu",
           description: `Mario serves as the Vice President for Cyber@UCR. His duty is helping maintain the club's official standing, organizing the club's official documents, and assisting in administrative tasks. Majoring in Computer Science, he is looking to further expand his knowledge of cybersecurity to use in his future careers in the software industry.`,
@@ -63,7 +63,7 @@ export default {
         },
         {
           name: "Derrick Mao",
-          image: require("~/assets/officers/derrick.png"),
+          image: require("~/assets/officers/derrick.jpg"),
           position: "Treasurer",
           email: "dmao008@ucr.edu",
           description: `Derrick is the Treasurer for Cyber@UCR. His duties involve activating the club account, managing Cyber's ASUCR and Cyber's BCOE budget, ordering club materials, maintaining a balance sheet of club transactions, and ordering food for club meetings. Additionally, he may fundraise to ensure finances do not limit club activities and events. He is an alumni of FRC Team 3309 and majors in Computer Engineering.`,
