@@ -66,7 +66,7 @@ export default {
           image: require("~/assets/officers/derrick.jpg"),
           position: "Treasurer",
           email: "dmao008@ucr.edu",
-          description: `Derrick is the Treasurer for Cyber@UCR. His duties involve activating the club account, managing Cyber's ASUCR and Cyber's BCOE budget, ordering club materials, maintaining a balance sheet of club transactions, and ordering food for club meetings. Additionally, he may fundraise to ensure finances do not limit club activities and events. He is an alumni of FRC Team 3309 and majors in Computer Engineering.`,
+          description: `Derrick is the Treasurer for Cyber@UCR. His duties involve activating the club account, managing Cyber's ASUCR and Cyber's BCOE budget, ordering club materials, maintaining a balance sheet of club transactions, and ordering food for club meetings. Additionally, he may fundraise to ensure finances do not limit club activities and events.`,
         },
         //        {
         //          name: "Chloe Au",
