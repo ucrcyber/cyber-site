@@ -38,7 +38,7 @@ export default {
           image: require("~/assets/officers/nolan.png"),
           position: "President",
           email: "nvern003@ucr.edu",
-          description: `Nolan is the President for Cyber@UCR. He is in charge of nominating captains for cybersecurity competitions, acting as the club spokesperson, being the principal organizer for conferences and meetings, tiebreaking votes, and other administrative and ethical tasks. He is primarily focused on Unix Systems, Virtualization, and Networks.`,
+          description: `Nolan is the President for Cyber@UCR. He is in charge of nominating captains for cybersecurity competitions, acting as the club spokesperson, being the principal organizer for conferences and meetings, tiebreaking votes, and other administrative and ethical tasks. He is primarily focused on Windows Systems, with an interest in system and network forensics.`,
         },
         {
           name: "Mario Cuaya",
