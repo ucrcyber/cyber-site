@@ -62,6 +62,63 @@
 
         <div class="row">
           <div class="eight wide column">
+            <h3 class="ui header">2026 Lockdown Team</h3>
+            <p>Cyber@UCR at Lockdown! </p>
+            <p>
+              Team:
+              Ava, Felicia, James, Zach, Siddharth, Hyrum
+            </p>
+          </div>
+          <div class="six wide right floated column">
+            <img
+              class="ui large bordered rounded image"
+              src="~/assets/competitions/lockdown2026.jpg"
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="eight wide column">
+            <h3 class="ui header">2026 CCDC Team</h3>
+            <p>Cyber@UCR at CCDC! 
+              
+              Read more on 
+              <a href="https://www.linkedin.com/feed/update/urn:li:activity:7428233202084941824">
+                LinkedIn</a>.</p>
+            <p>
+              Team:
+              Kemuel, Kevin, Siddharth, Nicky, Jacob, Ava, James, Kiana
+            </p>
+          </div>
+          <div class="six wide right floated column">
+            <img
+              class="ui large bordered rounded image"
+              src="~/assets/competitions/ccdc2026.png"
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="eight wide column">
+            <h3 class="ui header">2025 CPTC Team</h3>
+            <p>Cyber@UCR at CPTC in Cal Poly Pomona! Read more on 
+              <a href="https://www.linkedin.com/posts/cyberucr_during-the-fall-2025-quarter-cyber-competed-activity-7428223932802961408-equ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6ATGABsOPZUrvsqSeThsrUZH_wLORZZUU">
+                LinkedIn</a>.</p>
+            <p>
+              Team:
+              Celso, Nicky, Kemuel, Kiana, Nolan, Ramya 
+            </p>
+          </div>
+          <div class="six wide right floated column">
+            <img
+              class="ui large bordered rounded image"
+              src="~/assets/competitions/cptc2025.png"
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="eight wide column">
             <h3 class="ui header">2024 CPTC Team</h3>
             <p>Cyber@UCR at CPTC in Coastline College!</p>
             <p>
