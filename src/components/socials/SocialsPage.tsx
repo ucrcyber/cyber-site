@@ -18,7 +18,7 @@ const fadeInAnimation = {
 const SocialsPage = () => {
   return (
     <motion.div {...fadeInAnimation}>
-      <div className="font-cyber-main flex flex-col">
+      <div className="font-cyber-main flex flex-col p-12">
         {/* <div className="flex gap-3">
           <span className="text-cyber-white text-2xl font-extrabold">
             cyber@ucr:~$
